@@ -1,0 +1,2 @@
+# Bộ lọc là dữ liệu nhị phân với app: không chuyển đổi ký tự xuống dòng, để sha256 trong index.txt luôn khớp.
+*.txt -text

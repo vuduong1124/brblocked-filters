@@ -1,0 +1,30 @@
+! BRBlocked – rule riêng cho nettruyen.gg (khảo sát 29/09/2026)
+
+! --- Allowlist tài nguyên bắt buộc (ưu tiên cao nhất) ---
+! Ảnh truyện. Server trả 403 nếu thiếu Referer nettruyen.gg.
+@@||kcgsbok.com^
+! Emoji picker trong phần bình luận.
+@@||cdn.jsdelivr.net^
+$nav-allow=nettruyen.gg
+
+! --- Chặn mọi tài nguyên third-party ngoài allowlist ---
+! Bắt được cả mạng quảng cáo mới chưa có trong common.txt,
+! và fetch cloudflare.com/cdn-cgi/trace mà script quảng cáo dùng để chọn popup theo quốc gia.
+$strict=nettruyen.gg
+
+! --- Script quảng cáo first-party ---
+! KHÔNG chặn /assets/js/ads/chipntgg.js: file này còn định nghĩa getCookie/setCookie
+! mà các script khác của trang dùng. Payload popunder nó nạp nằm ở
+! yougetwhatyoupayfor.net, đã chặn trong common.txt.
+
+! --- Cosmetic: banner cá độ nhúng trong HTML ---
+nettruyen.gg##.banners
+nettruyen.gg##.ads-banner
+! Khung quảng cáo trang chương, nhãn "Quảng cáo" vẽ bằng CSS var --ads-text-sps.
+nettruyen.gg##.banner-container
+nettruyen.gg##.show-sps
+nettruyen.gg##.wap_bottombanner
+nettruyen.gg###floating
+nettruyen.gg##.banner
+nettruyen.gg##[id^="dl-banner"]
+nettruyen.gg##iframe:not([src*="youtube.com"])

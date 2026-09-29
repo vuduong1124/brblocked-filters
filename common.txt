@@ -1,0 +1,31 @@
+! BRBlocked common filters – mạng quảng cáo và tracking phổ biến
+! Cú pháp: ||domain^ chặn domain và mọi subdomain; @@ là allowlist
+
+! Adcash
+||acscdn.com^
+||adcash.com^
+! Monetag / PropellerAds
+||ductilevoider.com^
+||propellerads.com^
+||monetag.com^
+||onclickads.net^
+||onclasrv.com^
+||realsrv.com^
+! Adsterra
+||adsterra.com^
+||highperformanceformat.com^
+||profitablecpmrate.com^
+! PopAds / PopCash
+||popads.net^
+||popcash.net^
+! Khác
+||aqle3.com^
+||yougetwhatyoupayfor.net^
+||debets.club^
+! Google Ads / tracking (không ảnh hưởng nội dung)
+||googlesyndication.com^
+||doubleclick.net^
+||googletagmanager.com^
+||google-analytics.com^
+||facebook.net^
+||connect.facebook.net^
