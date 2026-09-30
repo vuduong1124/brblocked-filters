@@ -3,7 +3,7 @@
 ! License: GPLv3, https://github.com/abpvn/abpvn
 ! Converted: 2026-09-30 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
-! Cosmetic: 793
+! Cosmetic: 795
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -153,18 +153,18 @@ bongdanet.online##div[id^="ads_banner_bdn"]
 bongdaso66.net###right_float
 bongdaso66.net##[class*="_banner"]
 bongdaso66.net##[id$="float_banner"]
-buomtv.rest##._1vguhxv.cosll6e._3yp41v.row-3.lgy>._1lbf8q9
-buomtv.rest##._1vguhxv.cwzsl22.czdj0j5.c1skg1w3.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cjq7bud.c10dklm2.c1xtmnwt.dlnefd1
-buomtv.rest##._9xtpcl.c1mnguco.c9pdtme.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cxngf0m.c199xq07.c1xtmnwt
-buomtv.rest##._9xtpcl.c4je67d.c1qs0lzc.c1hrlkpu.cc2icwl.c1i0iccj.cfd18df
-buomtv.rest##._9xtpcl.cxwrp3i.c1skg1w3.cxngf0m.c199xq07.c10dklm2.c1xtmnwt.cvk29a4.w-\[300px\]
-buomtv.rest##._9xtpcl.e1e6v8dt
-buomtv.rest##.blbew80
-buomtv.rest##.llnefd1
-buomtv.rest##.lpp0nsn
-buomtv.rest##.luq51lg.a13wihj
-buomtv.rest##.pointer-events-auto.block
-buomtv.rest##.zbgpvb19.zbgpvb16.zbgpvbj.zbgpvbh.zbgpvbg.zbgpvbf.zbgpvbe.zbgpvb1
+buomtv.diy##._1vguhxv.cosll6e._3yp41v.row-3.lgy>._1lbf8q9
+buomtv.diy##._1vguhxv.cwzsl22.czdj0j5.c1skg1w3.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cjq7bud.c10dklm2.c1xtmnwt.dlnefd1
+buomtv.diy##._9xtpcl.c1mnguco.c9pdtme.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cxngf0m.c199xq07.c1xtmnwt
+buomtv.diy##._9xtpcl.c4je67d.c1qs0lzc.c1hrlkpu.cc2icwl.c1i0iccj.cfd18df
+buomtv.diy##._9xtpcl.cxwrp3i.c1skg1w3.cxngf0m.c199xq07.c10dklm2.c1xtmnwt.cvk29a4.w-\[300px\]
+buomtv.diy##._9xtpcl.e1e6v8dt
+buomtv.diy##.blbew80
+buomtv.diy##.llnefd1
+buomtv.diy##.lpp0nsn
+buomtv.diy##.luq51lg.a13wihj
+buomtv.diy##.pointer-events-auto.block
+buomtv.diy##.zbgpvb19.zbgpvb16.zbgpvbj.zbgpvbh.zbgpvbg.zbgpvbf.zbgpvbe.zbgpvb1
 cafebiz.vn##.bgadmtoptotal
 cafef.vn###lstblock1>.pushed
 cafef.vn###wrapper>[id^="adm-slot"]
@@ -185,6 +185,8 @@ chodansinh.net##.link-gold
 chodansinh.net##[id^="banner"]
 chophim.app##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0.fixed
 chophim.app##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-0.fixed
+chophim.fun##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0.fixed
+chophim.fun##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-0.fixed
 chophimviet.top###scriptDiv:has(.adsbygoogle)
 chotlo3s.com##div[id^="float"]
 chotlo3s.com##div[id^="hide_float"]
@@ -827,7 +829,7 @@ www.saostar.vn###page-skin-top-holder
 www.saostar.vn###pc-bill-top
 www.saostar.vn###pc-bill-top-1
 www.sieutamphim.pro###scriptDiv
-www.toptruyenzonek.com##.advertisement
+www.toptruyenzone12.com##.advertisement
 www.webtretho.vn##.wtt-ads
 x.phimsexvn1.co.uk###ads-wrapper
 x.phimsexvn1.co.uk###cashfit-spacer
