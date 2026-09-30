@@ -1,0 +1,40 @@
+name: Cập nhật danh sách chặn
+
+on:
+  schedule:
+    - cron: "17 20 * * *" # 03:17 giờ Việt Nam
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/**", ".github/workflows/lists.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lists
+  cancel-in-progress: false
+
+jobs:
+  lists:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tải và chuyển danh sách
+        run: python3 tools/convert.py
+      - name: Cập nhật mục lục bộ lọc gốc
+        run: sha256sum -b $(ls *.txt | grep -vx index.txt) > index.tmp && mv index.tmp index.txt
+      - name: Commit nếu có thay đổi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lists index.txt
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi"
+          else
+            git commit -m "Cập nhật danh sách chặn $(date -u +%F)"
+            git push
+          fi

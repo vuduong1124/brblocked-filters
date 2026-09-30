@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hostsvn",
+    "title": "hostsVN",
+    "description": "Quảng cáo và web lừa đảo ở Việt Nam",
+    "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+    "format": "hosts",
+    "license": "MIT, https://github.com/bigdargon/hostsVN"
+  },
+  {
+    "id": "adaway",
+    "title": "AdAway",
+    "description": "Danh sách của app AdAway",
+    "url": "https://adaway.org/hosts.txt",
+    "format": "hosts",
+    "license": "CC BY 3.0, https://github.com/AdAway/adaway.github.io"
+  },
+  {
+    "id": "peterlowe",
+    "title": "Peter Lowe",
+    "description": "Danh sách nhỏ, ít chặn nhầm",
+    "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+    "format": "hosts",
+    "license": "https://pgl.yoyo.org/adservers/policy.php"
+  },
+  {
+    "id": "easylist",
+    "title": "EasyList",
+    "description": "Chuẩn của uBlock/AdBlock: domain và ẩn phần tử theo site",
+    "url": "https://easylist.to/easylist/easylist.txt",
+    "format": "abp",
+    "license": "GPLv3 hoặc CC BY-SA 3.0, https://easylist.to/pages/licence.html"
+  },
+  {
+    "id": "abpvn",
+    "title": "ABPVN",
+    "description": "Chuyên site Việt Nam",
+    "url": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt",
+    "format": "abp",
+    "license": "GPLv3, https://github.com/abpvn/abpvn"
+  }
+]

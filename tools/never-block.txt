@@ -1,0 +1,35 @@
+# Domain thiết yếu: không bao giờ chặn domain này hay domain cha của nó,
+# dù danh sách gốc có ghi. Mỗi dòng một domain.
+google.com
+google.com.vn
+googleapis.com
+gstatic.com
+googleusercontent.com
+youtube.com
+youtu.be
+ytimg.com
+googlevideo.com
+firebaseio.com
+firebaseapp.com
+github.com
+githubusercontent.com
+jsdelivr.net
+cloudflare.com
+cdnjs.cloudflare.com
+unpkg.com
+facebook.com
+fbcdn.net
+messenger.com
+zalo.me
+apple.com
+microsoft.com
+live.com
+wikipedia.org
+wikimedia.org
+nettruyen.gg
+truyenqqko.com
+truyenqq.com.vn
+metruyencv.org
+truyenfull.live
+yanhh3d.ee
+streamfree.vip
