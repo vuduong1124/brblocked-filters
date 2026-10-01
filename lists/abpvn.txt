@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-09-30 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-01 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
 ! Cosmetic: 795
 ||ad.vidverto.io^
@@ -59,7 +59,7 @@
 ||pub.akadigital.vn^
 ||pub.lavamedia.vn^
 ||pub.lavanetwork.net^
-||q3ei4f.rophim10.day^
+||q3ei4f.rophim10.shop^
 ||qc.coccoc.com^
 ||qc.violet.vn^
 ||realclick.vn^
@@ -136,6 +136,8 @@ baonga.com##.monkey-section-tinnoibat
 baonga.com##div.monkey-qc
 baoquangninh.vn##.bottom-right-ads
 baoxaydung.vn##.banner
+barisdogansutcu.com###popup-ad-box
+barisdogansutcu.com##.banner-ad
 bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 blog.abit.vn##.button-dangkyngay
@@ -190,8 +192,8 @@ chophim.fun##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-
 chophimviet.top###scriptDiv:has(.adsbygoogle)
 chotlo3s.com##div[id^="float"]
 chotlo3s.com##div[id^="hide_float"]
-cliphot69.makeup###custom_html-42
-cliphot69.makeup##.float-ck-center-lt
+cliphot69.space###custom_html-42
+cliphot69.space##.float-ck-center-lt
 cliphotvn69.com##.float-ck-center-lt
 clipphot.co##.cashfish
 clipphot.co##.mini-player
@@ -436,7 +438,7 @@ monkeyd.net.vn###affLayer
 monkeyd.net.vn##.justify-content-center.d-flex.mx-3.mx-lg-4.mt-3>[href]
 monkeydtruyen.com###affLayer
 monkeydtruyen.com###affLayer2
-motchille.film##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+motchillt.fm##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motchilltvphim.com###popup_banner_beta
 motchilltvphim.com##.sda-catfish
 motchillxe.cc##.overlay-1
@@ -496,7 +498,7 @@ phimhdcss.com##.mp-adz
 phimlongtieng.net##.banner-preload
 phimlongtieng.net##.banner-preload-container
 phimlongtieng.net##div[class^="catfish-"]
-phimmoic.film##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+phimmoic.movie##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 phimmoichillz.top###pm_quangcao
 phimmoichillz.top###preload
 phimmoihd.it.com##.\32 xl\:left-2.sm\:left-1.left-0.-translate-y-1\/2.z-40.top-1\/2.fixed
@@ -517,8 +519,6 @@ player-cdn.com##.jw-logo
 player-cdn.com##.playover
 plcdn.xyz##.odds-button
 plcdn.xyz##.odds-button2
-primarycare1.com###popup-ad-box
-primarycare1.com##.banner-ad
 qdnd.vn##.box-banner
 qmanga.art##.gwd-banner-image
 qmh.garden###catfish-ad-banner
@@ -532,15 +532,15 @@ quatvn.diy##.popup-banner
 quatvn.diy##.popup-overlay
 quatvn.diy##.preroll-content
 quatvn.diy##body>div[style^="position: fixed;"]
-rakhoizac.cc###wap_bottombanner
-rakhoizac.cc##.bookmaker-selector-container
-rakhoizac.cc##.btn-8xbet
-rakhoizac.cc##.btn-odds
-rakhoizac.cc##.footer-banner
-rakhoizac.cc##.sk_balloon
+rakhoizad.cc###wap_bottombanner
+rakhoizad.cc##.bookmaker-selector-container
+rakhoizad.cc##.btn-8xbet
+rakhoizad.cc##.btn-odds
+rakhoizad.cc##.footer-banner
+rakhoizad.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
-rophim10.day##.adserver
-rophim10.day##.mt-3.topics-line.topics-grid.topics-list
+rophim10.shop##.adserver
+rophim10.shop##.mt-3.topics-line.topics-grid.topics-list
 rophimss.nl##.sspp-area
 rophimz.top##.float-ck-center-lt
 rphang.now###aboveFirstPost
@@ -556,6 +556,7 @@ saostar.vn###mobi-top
 saostar.vn##.ads
 saostar.vn##.pc-bill
 sayhentai.cx##.float-ck-center-lt
+sex678.net##.xx-ads
 sexhayvl.co.uk##.quangcaomobile
 sexmupxinh.net##.catfish-top
 sexmupxinh.net##.catfix
@@ -564,7 +565,6 @@ sexphimhayw.pro##.quangcaomobile
 sextop.asia###video_player ~ div[id]
 sextop.asia##div[style^="position:fixed;inset:0px;z-index:100000;"]
 sexviet69.cc##.float-ck-center-lt
-sexvietsub.tv##.xx-ads
 soha.vn##[id^="admzone"]
 soicau247s.org##.linkBanner
 sport5.vn##.afw-topbanner
@@ -736,8 +736,8 @@ videophapluat.baophapluat.vn##[href*="vietcombank.com.vn"]
 vieclam.tv###bnc0
 vieclam.tv###bnc1
 viet69.be##.footer-fixed-br-container
-viet69hay.quest###castfish
-viet69hay.quest##.popup
+viet69hay.beauty###castfish
+viet69hay.beauty##.popup
 viet69vn.at##.footer-fixed-br-container
 vietcetera.com##.styles_topBanner__NL_gW
 vietfones.vn##.vfs_banner
