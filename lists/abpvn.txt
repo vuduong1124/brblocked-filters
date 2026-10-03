@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-02 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-03 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
 ! Cosmetic: 793
 ||ad.vidverto.io^
@@ -270,6 +270,7 @@ fullcliphot.org##div#recent-content:nth-of-type(1)
 fulllivehot.us##.cashfish
 fulllivehot.us##.mini-player
 gaingon3d.com###iklan-atas-wrapper
+gaixinhvl.net##.xx-ads
 game24h.vn###vi-smartbanner
 game24h.vn##.LRBanner
 gamek.vn##[id^="admzone"]
@@ -308,6 +309,9 @@ gocmod.com##center:has(.adsbygoogle)
 gocmod.com##div[style^="position: fixed"]
 googleapiscdn.com###avs-banner-overlay
 googleapiscdn.com###avs-pause-ad
+haysexhihi.com##.catfish-bottom
+haysexhihi.com##.catfish-top
+haysexhihi.com##.xx-ads
 haysexvn.shop###vl-header-adx
 haysexvn.shop##.castfish-wrappe
 haysexvn.shop##.popup
@@ -359,7 +363,6 @@ ipatool.codevn.net##.ad-left
 ipatool.codevn.net##.ad-right
 javgiga.wordpress.com##.pum-overlay
 javhdz.wtf##.catfish-bottom
-javnhat.org##.xx-ads
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
 javtopxx2.com###fbox-background
 javtopxx2.com##.logo-player
@@ -433,7 +436,7 @@ monkeyd.net.vn###affLayer
 monkeyd.net.vn##.justify-content-center.d-flex.mx-3.mx-lg-4.mt-3>[href]
 monkeydtruyen.com###affLayer
 monkeydtruyen.com###affLayer2
-motchillt.fm##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+motchillm.tv##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motchilltvphim.com###popup_banner_beta
 motchilltvphim.com##.sda-catfish
 motchillxe.cc##.overlay-1
@@ -493,7 +496,7 @@ phimhdcss.com##.mp-adz
 phimlongtieng.net##.banner-preload
 phimlongtieng.net##.banner-preload-container
 phimlongtieng.net##div[class^="catfish-"]
-phimmoic.movie##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+phimmoic.pw##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 phimmoichillz.top###pm_quangcao
 phimmoichillz.top###preload
 phimmoihd.it.com##.\32 xl\:left-2.sm\:left-1.left-0.-translate-y-1\/2.z-40.top-1\/2.fixed
@@ -514,8 +517,6 @@ player-cdn.com##.jw-logo
 player-cdn.com##.playover
 plcdn.xyz##.odds-button
 plcdn.xyz##.odds-button2
-prayasksg.com###popup-ad-box
-prayasksg.com##.banner-ad
 qdnd.vn##.box-banner
 qmanga.art##.gwd-banner-image
 qmh.garden###catfish-ad-banner
@@ -539,6 +540,8 @@ rakhoizaq.cc##.btn-odds
 rakhoizaq.cc##.footer-banner
 rakhoizaq.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
+rhusmidoria.com###popup-ad-box
+rhusmidoria.com##.banner-ad
 rophim10.shop##.adserver
 rophim10.shop##.mt-3.topics-line.topics-grid.topics-list
 rophimz.top##.float-ck-center-lt
@@ -756,9 +759,6 @@ vietnammedia.vnanet.vn##[href*="bit.ly"]
 vietnamnet.vn##.vmcadszone
 vietq.vn##section.mar20:nth-of-type(2)
 vietq.vn##section.mar20:nth-of-type(4)
-vlsexhihi.vip##.catfish-bottom
-vlsexhihi.vip##.catfish-top
-vlsexhihi.vip##.xx-ads
 vlxx.rip###f186fb23a33995d91ce3c2212189178c8
 vlxx.rip##.hd-tube-desktop
 vlxx.rip##.hd-tube-mobile
@@ -848,9 +848,9 @@ xiuren.org###bannerIn
 xiuren.org###exoIMFrame
 xiuren.org###nativeAds_1505931906161
 xiuren.org##div[id^="exo_slider_"]
-xnhau.soy##.fp-ui>div[style]
-xnhau.soy##.sponsor
-xnhau.soy##.spot
+xnhau.page##.fp-ui>div[style]
+xnhau.page##.sponsor
+xnhau.page##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
