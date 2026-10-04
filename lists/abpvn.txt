@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-03 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-04 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
 ! Cosmetic: 793
 ||ad.vidverto.io^
@@ -270,7 +270,6 @@ fullcliphot.org##div#recent-content:nth-of-type(1)
 fulllivehot.us##.cashfish
 fulllivehot.us##.mini-player
 gaingon3d.com###iklan-atas-wrapper
-gaixinhvl.net##.xx-ads
 game24h.vn###vi-smartbanner
 game24h.vn##.LRBanner
 gamek.vn##[id^="admzone"]
@@ -362,7 +361,7 @@ idpvn.com##[id^="idpvn-"]
 ipatool.codevn.net##.ad-left
 ipatool.codevn.net##.ad-right
 javgiga.wordpress.com##.pum-overlay
-javhdz.wtf##.catfish-bottom
+javhdz.la##.catfish-bottom
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
 javtopxx2.com###fbox-background
 javtopxx2.com##.logo-player
@@ -533,15 +532,13 @@ quatvn.diy##.popup-banner
 quatvn.diy##.popup-overlay
 quatvn.diy##.preroll-content
 quatvn.diy##body>div[style^="position: fixed;"]
-rakhoizaq.cc###wap_bottombanner
-rakhoizaq.cc##.bookmaker-selector-container
-rakhoizaq.cc##.btn-8xbet
-rakhoizaq.cc##.btn-odds
-rakhoizaq.cc##.footer-banner
-rakhoizaq.cc##.sk_balloon
+rakhoizam.cc###wap_bottombanner
+rakhoizam.cc##.bookmaker-selector-container
+rakhoizam.cc##.btn-8xbet
+rakhoizam.cc##.btn-odds
+rakhoizam.cc##.footer-banner
+rakhoizam.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
-rhusmidoria.com###popup-ad-box
-rhusmidoria.com##.banner-ad
 rophim10.shop##.adserver
 rophim10.shop##.mt-3.topics-line.topics-grid.topics-list
 rophimz.top##.float-ck-center-lt
@@ -593,6 +590,8 @@ tctruyen.org##.img-banner-poster.main
 tech.zingnews.vn###Zingnews_SiteHeader
 techrum.vn##.block:has(.block-container>.block-body>a[href])
 techrum.vn##.block:has(.block-container>.block-body>ins)
+tenis5padelindoor.com###popup-ad-box
+tenis5padelindoor.com##.banner-ad
 tenovi.net###ad_balloon
 tenovi.net##.adpia_banner
 thanhnien.vn##.asd-headt
@@ -848,12 +847,13 @@ xiuren.org###bannerIn
 xiuren.org###exoIMFrame
 xiuren.org###nativeAds_1505931906161
 xiuren.org##div[id^="exo_slider_"]
-xnhau.page##.fp-ui>div[style]
-xnhau.page##.sponsor
-xnhau.page##.spot
+xnhau.navy##.fp-ui>div[style]
+xnhau.navy##.sponsor
+xnhau.navy##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
+xxxhay.vip##.xx-ads
 yanhh3d.kim###catfish-ads
 ybox.vn###ybox-H1>div[style]
 ycongnghe.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
