@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-04 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-06 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
-! Cosmetic: 793
+! Cosmetic: 799
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -254,6 +254,8 @@ ebookbkmt.com##.top-right
 ephoto360.com##.ad-container
 ephoto360.com##.line-ads
 eva.vn##.banrpstn
+fhd-01.cctvsignal.xyz##.banner-player
+fhd-01.cctvsignal.xyz##.bet-button-player
 file.gocmod.com##div.ad
 freeplayervideo.com###player + div[id]
 freeplayervideo.com##.jw-logo
@@ -398,6 +400,10 @@ lichvannien365.com##div[style="width: 100%; min-height: 90px; text-align: center
 lichvannien365.com##div[style="width: 100%;text-align: center;min-height: 280px;"]
 linkneverdie.net##.info-footer:nth-child(4)
 linkneverdie.top##.info-footer:nth-child(4)
+live08.chuoichientv.me##.bet-btn-wrap
+live08.chuoichientv.me##.fixed.inset-0.z-\[9999\].bg-black\/80.flex.items-center.justify-center.p-4
+live08.chuoichientv.me##.fixed.inset-0.z-\[9999\].flex.items-center.justify-center.p-4.popup-backdrop
+live08.chuoichientv.me##.quality-right-group>a[rel="noopener sponsored"]
 lmssplus.org##p[style="color: rgb(174, 174, 174); margin-top: 10px; margin-bottom: 20px;"]
 loigiaihay.com###countdown
 loigiaihay.com##.section-gqc1
@@ -532,12 +538,12 @@ quatvn.diy##.popup-banner
 quatvn.diy##.popup-overlay
 quatvn.diy##.preroll-content
 quatvn.diy##body>div[style^="position: fixed;"]
-rakhoizam.cc###wap_bottombanner
-rakhoizam.cc##.bookmaker-selector-container
-rakhoizam.cc##.btn-8xbet
-rakhoizam.cc##.btn-odds
-rakhoizam.cc##.footer-banner
-rakhoizam.cc##.sk_balloon
+rakhoizan.cc###wap_bottombanner
+rakhoizan.cc##.bookmaker-selector-container
+rakhoizan.cc##.btn-8xbet
+rakhoizan.cc##.btn-odds
+rakhoizan.cc##.footer-banner
+rakhoizan.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim10.shop##.adserver
 rophim10.shop##.mt-3.topics-line.topics-grid.topics-list

@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ! License: MIT, https://github.com/bigdargon/hostsVN
-! Converted: 2026-09-30 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 9195
+! Converted: 2026-10-06 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 9231
 ! Cosmetic: 0
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -112,6 +112,7 @@
 ||79xmz3lmss.com^
 ||7ca78m3csgbrid7ge.com^
 ||864feb57ruary.com^
+||8m9.8xb3njrjigxhge9q9mp2.cfd^
 ||940functions.net^
 ||970vantage.net^
 ||999.money^
@@ -157,6 +158,7 @@
 ||ab1n.net^
 ||abacho.net^
 ||abc-ads.com^
+||ablelaunchshorts.com^
 ||abmkupxixavk.in^
 ||aboardlevel.com^
 ||above.com^
@@ -644,6 +646,7 @@
 ||adrta.com^
 ||ads-adaptv.vidible.tv^
 ||ads-admin.hubs.vn^
+||ads-api-o.api.leiniao.com^
 ||ads-api.ft.com^
 ||ads-api.playfun.vn^
 ||ads-api.tiktok.com^
@@ -1871,7 +1874,6 @@
 ||apercusdimly.com^
 ||apex-ad.com^
 ||apfxpuatkla.com^
-||api-2-0.spot.im^
 ||api-ad-adapter.wps.com^
 ||api-ad-data.kajicam.com^
 ||api-ad.kajicam.com^
@@ -2073,6 +2075,7 @@
 ||asp.animelab.com^
 ||aspiringtoy.com^
 ||assemblyexchange.com^
+||assets.connatix.com^
 ||assets.harafunnel.com^
 ||assets.purch.com^
 ||assets1.exgfnetwork.com^
@@ -2384,6 +2387,7 @@
 ||bharalhallahs.com^
 ||bhcumsc.com^
 ||bhjkpnfsgejvo.com^
+||bi-events-collector.spot.im^
 ||bi.vhost.vn^
 ||bi.yeshen.com^
 ||bicolourprepossessstrong.com^
@@ -2429,6 +2433,7 @@
 ||bjhmt.com^
 ||bk8sports.com^
 ||bkrtx.com^
+||bl.rajeevrapido.cfd^
 ||blackbrake.com^
 ||bladelikefreightwhat.com^
 ||blahlivedsnowdrop.com^
@@ -2659,6 +2664,7 @@
 ||campaign.gitiho.com^
 ||campaigns.williamhill.com^
 ||campfirecroutondecorator.com^
+||camph.org^
 ||cams.gratis^
 ||can-get-so.me^
 ||canekilttantrum.com^
@@ -2670,6 +2676,7 @@
 ||carambo.la^
 ||carbonads.com^
 ||carbonads.net^
+||cardiaccrystaleternity.com^
 ||caribedkurukh.com^
 ||carveddoublebogeyhigh.com^
 ||carvyre.com^
@@ -2887,6 +2894,8 @@
 ||cjlog.com^
 ||cjxomyilmv.com^
 ||ck.ads.heytapmobi.com^
+||ck.connatix.com^
+||cks.connatix.com^
 ||cl-data-f.ads.heytapmobi.com^
 ||cl-data-id.ads.heytapmobi.com^
 ||cl-data-in.ads.heytapmobi.com^
@@ -3098,7 +3107,6 @@
 ||config.safedk.com^
 ||config.sdk.scopely.io^
 ||conjunctionrepresentativepowerless.com^
-||connatix.com^
 ||connect.idocdn.com^
 ||connectad.io^
 ||connection1safety.com^
@@ -3122,6 +3130,7 @@
 ||context.iris.tv^
 ||contextweb.com^
 ||contineljs.com^
+||contraltoflubmedical.com^
 ||convenebeice.com^
 ||conversantmedia.com^
 ||conversionruler.com^
@@ -3256,6 +3265,7 @@
 ||cts.tradepub.com^
 ||cts.w55c.net^
 ||ctubhxbaew.com^
+||ctv-ads.api.leiniao.com^
 ||cubics.com^
 ||cuddlethehyena.com^
 ||culbhiaxntuh.in^
@@ -3796,6 +3806,7 @@
 ||ets.easybrain.com^
 ||eu-1-id5-sync.com^
 ||eu-adcenter.net^
+||euads-o.api.leiniao.com^
 ||euclid.kuula.co^
 ||eulerian.com^
 ||eurekster.com^
@@ -3961,6 +3972,7 @@
 ||fiftyt.com^
 ||fiksu.com^
 ||filament-stats.herokuapp.com^
+||file-hw-ads-o.api.leiniao.com^
 ||file-subiz.com^
 ||filezoness.com^
 ||fimserve.com^
@@ -4526,6 +4538,7 @@
 ||i.cdnkimg.com^
 ||i.ctnsnet.com^
 ||i.mxplayer.j2inter.com^
+||i.singular.net^
 ||i.viafoura.co^
 ||i.w55c.net^
 ||i2ad.jp^
@@ -4678,6 +4691,7 @@
 ||inpagepush.com^
 ||inquisitiveinvention.com^
 ||inrhyhorntor.com^
+||ins.connatix.com^
 ||inside-graph.com^
 ||insideoftech.com^
 ||insight.ucweb.com^
@@ -4884,6 +4898,7 @@
 ||justrelevant.com^
 ||justuno.com^
 ||justwebads.com^
+||jvntctypey.com^
 ||jwpltx.com^
 ||jwuoxhjuq.com^
 ||jz.thringsettos.cyou^
@@ -5002,6 +5017,7 @@
 ||lby2kd27c.com^
 ||lcs.loginfra.com^
 ||ldjsypolwypxy.space^
+||lduohrmhrme.com^
 ||leadboltads.net^
 ||leadclick.com^
 ||leadforensics.com^
@@ -5069,6 +5085,7 @@
 ||lio.aiservice.vn^
 ||liquidad.narrowcastmedia.com^
 ||lispaircraftcraziness.com^
+||lit.connatix.com^
 ||literalcorpulent.com^
 ||litix.io^
 ||littlecutecats.com^
@@ -6144,6 +6161,7 @@
 ||onwardperishvaluables.com^
 ||oofmhbmqdn.com^
 ||opehs.tanx.com^
+||open-api.spot.im^
 ||open.oneplus.net^
 ||openad.tf1.fr^
 ||openad.travelnow.com^
@@ -6477,6 +6495,7 @@
 ||piximedia.com^
 ||pjhku.com^
 ||pk910324e.com^
+||pl.connatix.com^
 ||placeplay.com^
 ||planetactive.com^
 ||platform.iteratehq.com^
@@ -6502,6 +6521,7 @@
 ||pmfstream.appnexus.com^
 ||pnhoppacwh.com^
 ||pnuhondppw.com^
+||po.zuhgg4cxt6noffj8.rest^
 ||poawooptugroo.com^
 ||pocitadlo.cz^
 ||pocpoc.io^
@@ -6512,6 +6532,7 @@
 ||pokreess.com^
 ||polarbyte.com^
 ||polyad.net^
+||pomxd.com^
 ||ponos.zeronaught.com^
 ||pontiflex.com^
 ||pop-under.ru^
@@ -6764,6 +6785,7 @@
 ||pw.oulapoat.qpon^
 ||pwieu.com^
 ||pwmctl.com^
+||pwyamrbild.in^
 ||px-eu.dynamicyield.com^
 ||px-intl.ucweb.com^
 ||px.dmp.zaloapp.com^
@@ -6929,6 +6951,7 @@
 ||receive.wmcdp.io^
 ||receptivereaction.com^
 ||recharsemiarc.com^
+||recirculation.spot.im^
 ||reconditerake.com^
 ||record.mrwin.com^
 ||recordedthereby.com^
@@ -7137,6 +7160,7 @@
 ||rutseasickmunch.com^
 ||ruvsraaklrih.com^
 ||ruwjkygaxo.com^
+||rvjoiedxxq.com^
 ||rvrpushserv.com^
 ||rwadx.com^
 ||rwulzuaqsafn.com^
@@ -7183,6 +7207,7 @@
 ||s2517.com^
 ||s2d6.com^
 ||s2s.appsflyer.com^
+||s2s.singular.net^
 ||s3-analytics-events.easybrain.com^
 ||s3-ca-liveops.easybrain.com^
 ||s3-playable-ads.easybrain.com^
@@ -7198,6 +7223,8 @@
 ||safebrowsdv.com^
 ||safegraph.com^
 ||safestgatetocontent.com^
+||safetrack-s2s.singular.net^
+||safetrack.singular.net^
 ||sageanalyst.net^
 ||saggrowledetc.com^
 ||saidairakas.com^
@@ -7254,6 +7281,7 @@
 ||scrubswim.com^
 ||scupio.com^
 ||sdhfbvd.com^
+||sdk-api-v1.singular.net^
 ||sdk-config.tanx.com^
 ||sdk-monitoring.ogury.co^
 ||sdk-services.appsflyer.com^
@@ -7402,7 +7430,6 @@
 ||simplycast.com^
 ||sincerebuffalo.com^
 ||singletplatformgleamenterprises.com^
-||singular.net^
 ||sinisterbatchoddly.com^
 ||sinoa.com^
 ||site24x7rum.eu^
@@ -7421,8 +7448,11 @@
 ||sj.coemptsruesome.shop^
 ||sjarvis.taobao.com^
 ||sjremetrics.java.com^
+||skadnetwork.singular.net^
 ||skadsdk.appsflyer.com^
 ||skadsdk.appsflyersdk.com^
+||skan-s2s.singular.net^
+||skan.singular.net^
 ||skcrtxr.com^
 ||skimlinks.com^
 ||skullhalfway.com^
@@ -7496,6 +7526,7 @@
 ||snuff-brownsprintcountry.com^
 ||snugglethesheep.com^
 ||so-gr3at3.com^
+||soamuylg.com^
 ||sobakenchmaphk.com^
 ||soccercadencefridge.com^
 ||socdm.com^
@@ -7592,6 +7623,8 @@
 ||srv224.com^
 ||srvd2204.com^
 ||srwww1.com^
+||ssai-ads.api.leiniao.com^
+||ssai2-ads.api.leiniao.com^
 ||ssindserving.com^
 ||ssl-google-analytics.l.google.com^
 ||ssm.codes^
@@ -7885,6 +7918,7 @@
 ||ta3nfsordd.com^
 ||tabmo2018.go2cloud.org^
 ||taboola.com^
+||taboola.com.cn^
 ||tacoda.net^
 ||tacticwane.com^
 ||tag.brandcdn.com^
@@ -8308,7 +8342,6 @@
 ||traffic-exchange.com^
 ||traffic-media.co.uk^
 ||traffic.nvcms.net^
-||traffic.spot.im^
 ||trafficads.net^
 ||trafficbass.com^
 ||trafficdok.com^
@@ -8602,6 +8635,7 @@
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
 ||vasstycom.com^
+||vast.streamux.top^
 ||vast.vstserv.com^
 ||vaugroar.com^
 ||vc.colpwoofell.qpon^
@@ -8777,6 +8811,7 @@
 ||web-analytic.ghtk.vn^
 ||web-analytics.mona.host^
 ||web-device-id.banggood.com^
+||web-sdk-cdn.singular.net^
 ||web-stat.com^
 ||web-t.9gag.com^
 ||web-tracking.engagebay.com^
@@ -8791,6 +8826,7 @@
 ||webengage.com^
 ||webeyemob.com^
 ||webgains.com^
+||webls.net^
 ||webmasterplan.com^
 ||webmasterplan.de^
 ||webmetrics.mayoclinic.org^
