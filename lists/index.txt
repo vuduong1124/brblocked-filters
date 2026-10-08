@@ -2,5 +2,5 @@
 422fcce9fbe99f8f0b225eceeae93363f4fef17c514a772e2d6b3cc5233f3124	hostsvn.txt	9231	0	2026-10-06	hostsVN	Quảng cáo và web lừa đảo ở Việt Nam
 4f9b9c8aab9f7bcb5dc2f4714c8e3f4b3cb27382d0983775211c73befeca3571	adaway.txt	4267	0	2026-09-30	AdAway	Danh sách của app AdAway
 79a3486fd47e4a29f8e5841a3c1a8f7e07cb9672322d6195a6b66345f76d61ce	peterlowe.txt	3540	0	2026-10-06	Peter Lowe	Danh sách nhỏ, ít chặn nhầm
-d9752849cf3c02c1a022364f63dcd87b6e462531cdad96e986947596f2ca1be1	easylist.txt	48649	16377	2026-10-06	EasyList	Chuẩn của uBlock/AdBlock: domain và ẩn phần tử theo site
-ede559199bb980b5424d298e7a674a69f635288c90047cfb8c59ad35b863ff57	abpvn.txt	69	799	2026-10-06	ABPVN	Chuyên site Việt Nam
+50f912fb66a1ee36743733d3f418e9ad6b5653e9e095b457d5d196280bee0a23	easylist.txt	48929	16380	2026-10-08	EasyList	Chuẩn của uBlock/AdBlock: domain và ẩn phần tử theo site
+18801e1b2a650a1eed28d0fe57cc0a7637a4f59287f269a0a3ea84572f46e77e	abpvn.txt	69	798	2026-10-08	ABPVN	Chuyên site Việt Nam
