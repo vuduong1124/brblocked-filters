@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-08 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-09 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
 ! Cosmetic: 798
 ||ad.vidverto.io^
@@ -506,7 +506,6 @@ phimmoihd.it.com##.\32 xl\:left-2.sm\:left-1.left-0.-translate-y-1\/2.z-40.top-1
 phimmoihd.it.com##.\32 xl\:right-2.sm\:right-1.right-0.-translate-y-1\/2.z-40.top-1\/2.fixed
 phimmoihd.it.com##.p-4.bg-black\/70.overflow-y-auto.justify-center.items-center.flex.z-\[70\].inset-0.fixed
 phimmoihd.it.com##.pt-3.pb-1.px-2.z-\[60\].bottom-0.inset-x-0.fixed
-phimnong.net##.xx-ads
 phimsexhayvne.com##.float-ck-center-lt
 phimsexsuong3x.net##.catfish-bottom
 phimtho.cc###popup_banner_beta
@@ -742,8 +741,8 @@ videophapluat.baophapluat.vn##[href*="vietcombank.com.vn"]
 vieclam.tv###bnc0
 vieclam.tv###bnc1
 viet69.be##.footer-fixed-br-container
-viet69hay.beauty###castfish
-viet69hay.beauty##.popup
+viet69hayz.lat###castfish
+viet69hayz.lat##.popup
 viet69vn.at##.footer-fixed-br-container
 vietcetera.com##.styles_topBanner__NL_gW
 vietfones.vn##.vfs_banner
@@ -853,13 +852,14 @@ xiuren.org###bannerIn
 xiuren.org###exoIMFrame
 xiuren.org###nativeAds_1505931906161
 xiuren.org##div[id^="exo_slider_"]
-xnhau.navy##.fp-ui>div[style]
-xnhau.navy##.sponsor
-xnhau.navy##.spot
+xnhau.foo##.fp-ui>div[style]
+xnhau.foo##.sponsor
+xnhau.foo##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
-yanhh3d.kim###catfish-ads
+xxxphim.org##.xx-ads
+yanhh3d.chat###catfish-ads
 ybox.vn###ybox-H1>div[style]
 ycongnghe.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
 ycongnghe.com##.td-crumb-container
