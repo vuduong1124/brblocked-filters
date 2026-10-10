@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-09 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-10 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
-! Cosmetic: 798
+! Cosmetic: 799
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -106,6 +106,8 @@ animesub.site###fbox-background
 animesub.site###menubentrai
 animesub.site##.gnartyx-offads
 animesub.site##.jw-logo
+animesub.site##.mp-adz
+animesub.site##.sticky_bottom
 animetvn.com###fbox-background
 animetvn.com###mobile-ads
 animetvn.com##.gnarty-offads
@@ -292,13 +294,13 @@ giadinhonline.vn##.adv
 giadinhonline.vn##.exp_qc_share
 giavang.org##.sponsor-img
 giavang.org##.tradingview-widget-copyright
-giovang.rent##.balloon-wrapper
-giovang.rent##.banner_popup
-giovang.rent##.banners-bottom
-giovang.rent##.bc-hidden-link.seo4s-resolve-link
-giovang.rent##.box-odds-match
-giovang.rent##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
-giovang.rent##.nav-top-nha-cai
+giovang.tax##.balloon-wrapper
+giovang.tax##.banner_popup
+giovang.tax##.banners-bottom
+giovang.tax##.bc-hidden-link.seo4s-resolve-link
+giovang.tax##.box-odds-match
+giovang.tax##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
+giovang.tax##.nav-top-nha-cai
 gockhuat.net###ad_global_below_navbar
 gocmod.com###bannerContainer1
 gocmod.com###bannerContainer2
@@ -464,6 +466,7 @@ nhaccuatui.com##.nqc-zone
 nhacdj.vn###top-adv
 nhipcaudautu.vn##div[id^="ads_"]
 olm.vn##.olm-ads
+onflix.lat##.fixed.inset-0.z-\[100\].flex.items-center.justify-center.bg-black\/60.p-4.animate-in.fade-in.duration-300
 onflix.lat##.lg\:bottom-0.bottom-\[94px\].duration-300.transition-all.pointer-events-none.justify-center.flex.z-40.inset-x-0.fixed
 onflix.lat##.space-y-0.py-2.lg\:pl-14.md\:px-12.px-1.w-full > .px-4.mx-auto.container.my-4.w-full.items-center.justify-center.flex
 outlook.live.com##.LBktY>.GssDD
@@ -587,8 +590,6 @@ subnhanh.plus###footer_fixed_ads
 subnhanh.plus###popup_banner_beta
 subnhanh.plus##.sda-catfish
 subnhanh.plus##.video-ad-layer
-tacoshacktn.com###popup-ad-box
-tacoshacktn.com##.banner-ad
 taichinhdoanhnghiep.net.vn##.adv
 taichinhdoanhnghiep.net.vn##.banner
 tapchikientruc.com.vn###topbn
@@ -658,7 +659,7 @@ tienphong.vn##.banner-top
 tienphong.vn##.fyi
 tienphong.vn##div[id^="adsMobile"]
 tienphong.vn##div[id^="adsWeb"]
-tiin.vn##.ads-common-box
+tiim.com.vn##.ads-common-box
 tinhte.vn##.hidden-md>.main.jsx-2126301199
 tinhte.vn##.jsx-3569995709
 tinhte.vn##.micro
@@ -671,6 +672,8 @@ tinmoi.vn###pc-top
 tinmoi.vn##.ads-position
 tinnhanhchungkhoan.vn##.fyi
 tinxe.vn##.box-bound-midd-middetail.box-bound-midd
+tokojazirah.com###popup-ad-box
+tokojazirah.com##.banner-ad
 toquoc.vn##.banner
 trangsexdam.net###f186fb23a33995d91ce3c2212189178c8
 trangsexdam.net##.hd-tube-desktop
@@ -845,8 +848,6 @@ xehay.vn###banner3double
 xem1080.com##.banner-masthead
 xem20.net##.fixed
 xem20.net##.float-ck-center-lt
-xemphim.site##.mp-adz
-xemphim.site##.sticky_bottom
 xfast.sbs###overlay
 xiuren.org###bannerIn
 xiuren.org###exoIMFrame
@@ -858,7 +859,7 @@ xnhau.foo##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
-xxxphim.org##.xx-ads
+xxviet.net##.xx-ads
 yanhh3d.chat###catfish-ads
 ybox.vn###ybox-H1>div[style]
 ycongnghe.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
