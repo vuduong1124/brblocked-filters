@@ -2,7 +2,7 @@
 ! Source: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 ! License: https://pgl.yoyo.org/adservers/policy.php
 ! Converted: 2026-10-10 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 3535
+! Domains: 3536
 ! Cosmetic: 0
 ||101com.com^
 ||180hits.de^
@@ -2844,6 +2844,7 @@
 ||servedbyopenx.com^
 ||servethis.com^
 ||services.hearstmags.com^
+||session.bugsnag.kindle.amazon.dev^
 ||sessioncam.com^
 ||sexcounter.com^
 ||sexlist.com^
