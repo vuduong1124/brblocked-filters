@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-10 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-11 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
 ! Cosmetic: 799
 ||ad.vidverto.io^
@@ -247,7 +247,7 @@ doisongphapluat.com.vn##.sys-ads
 download.com.vn##.adbox
 download.vn##.adbox
 download.vn##div[id^="adsbg"]
-dualeotruyenpet.com##[id$="bnr"]
+dualeotruyenvie.com##[id$="bnr"]
 dubaotiente.net##.ad-pin-right-bottom
 dubaotiente.net##.adv
 dynadot.rsocdomains.com###video_player ~ div[id]
@@ -281,6 +281,8 @@ gamer18.net##.fixed-banner-bottom
 gamer18.net##div[id^="divFLR"]
 gamevui.vn##.adbox
 genk.vn##.khw-ads-wrapper.clearfix
+georgienwbtours.com###popup-ad-box
+georgienwbtours.com##.banner-ad
 ghienphimz.mom##.ad-floater
 ghienphimz.mom##.ads
 ghienphimz.mom##.banner
@@ -672,8 +674,6 @@ tinmoi.vn###pc-top
 tinmoi.vn##.ads-position
 tinnhanhchungkhoan.vn##.fyi
 tinxe.vn##.box-bound-midd-middetail.box-bound-midd
-tokojazirah.com###popup-ad-box
-tokojazirah.com##.banner-ad
 toquoc.vn##.banner
 trangsexdam.net###f186fb23a33995d91ce3c2212189178c8
 trangsexdam.net##.hd-tube-desktop
