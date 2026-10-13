@@ -2,7 +2,7 @@
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ! License: MIT, https://github.com/bigdargon/hostsVN
 ! Converted: 2026-10-13 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 9247
+! Domains: 9257
 ! Cosmetic: 0
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -317,6 +317,7 @@
 ||ad.sunflower.vn^
 ||ad.tiktokv.us^
 ||ad.tv2.no^
+||ad.twinrdengine.com^
 ||ad.unimhk.com^
 ||ad.us.sinaimg.cn^
 ||ad.usatoday.com^
@@ -2169,6 +2170,7 @@
 ||axdsz.pro^
 ||axillovely.com^
 ||axisuptown.com^
+||axjndvucr.com^
 ||axonix.com^
 ||ay.delivery^
 ||ayads.io^
@@ -2470,6 +2472,7 @@
 ||blueseed.tv^
 ||blueserving.com^
 ||blueswordksh.com^
+||bluetrafficstream.com^
 ||bluewhaleweb.com^
 ||blurbreimbursetrombone.com^
 ||blushingbeast.com^
@@ -2906,6 +2909,7 @@
 ||cl-data-sg.ads.heytapmobi.com^
 ||cl-data.ads.heytapmobi.com^
 ||cl.canva.com^
+||clannotillortale.com^
 ||claria.com^
 ||clarity.ms^
 ||clarium.global.ssl.fastly.net^
@@ -3131,6 +3135,7 @@
 ||contentabc.com^
 ||contentspread.net^
 ||contentsquare.net^
+||contentsserved.com^
 ||context.iris.tv^
 ||contextweb.com^
 ||contineljs.com^
@@ -3995,6 +4000,7 @@
 ||firstimpression.io^
 ||firstlightera.com^
 ||fivecdm.com^
+||fixavcha.in^
 ||flagcounter.com^
 ||flakyfeast.com^
 ||flash.sec.intl.miui.com^
@@ -4352,6 +4358,7 @@
 ||guoshipartners.com^
 ||guppymedia.com^
 ||gv.habitanchowses.cyou^
+||gvcaffiliates.com^
 ||gw-iad-bid.ymmobi.com^
 ||gw.flurry.com^
 ||gwallet.com^
@@ -4392,7 +4399,9 @@
 ||hb.yahoo.net^
 ||hbplatform.com^
 ||hccxwfunnpxngz.com^
+||hdacode.com^
 ||hdatssfpxrwbxs.com^
+||hdbkome.com^
 ||hdlyfrxtnjpbc.site^
 ||hdmtools.com^
 ||headerlift.com^
@@ -5503,6 +5512,7 @@
 ||maxvaluead.com^
 ||maxymiser.com^
 ||maxymiser.net^
+||mayzaent.com^
 ||mazu.sec.miui.com^
 ||mbddip.com^
 ||mbid.marfeelrev.com^
