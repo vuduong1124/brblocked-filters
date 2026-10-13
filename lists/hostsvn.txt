@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ! License: MIT, https://github.com/bigdargon/hostsVN
-! Converted: 2026-10-06 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 9231
+! Converted: 2026-10-13 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 9247
 ! Cosmetic: 0
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -1801,11 +1801,13 @@
 ||analytics.tiki.vn^
 ||analytics.tiktok.com^
 ||analytics.tiktokw.us^
+||analytics.tr.adjust.com^
 ||analytics.tuoitrau.com^
 ||analytics.uca.cloud.unity3d.com^
 ||analytics.undrads.com^
 ||analytics.ungdungtructuyen.vn^
 ||analytics.unity3d.com^
+||analytics.us.adjust.com^
 ||analytics.us.tiktok.com^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
@@ -2545,6 +2547,7 @@
 ||bridgeoos.com^
 ||bridgetrack.com^
 ||brigadedelegatesandbox.com^
+||briggie.org^
 ||bright-sdk.com^
 ||brightadnetwork.com^
 ||brightcriticism.com^
@@ -2623,6 +2626,7 @@
 ||bvtpk.com^
 ||bwp.download.com^
 ||bwstatistics.sapoapps.vn^
+||bx.meayis.cfd^
 ||bytefrom2010.com^
 ||bzclk.baidu.com^
 ||bzr.openai.com^
@@ -3333,6 +3337,7 @@
 ||d2klx87bgzngce.cloudfront.net^
 ||d2lahoz916es9g.cloudfront.net^
 ||d2o5idwacg3gyw.cloudfront.net^
+||d2pf0ys5xus6n.cloudfront.net^
 ||d2qnx6y010m4rt.cloudfront.net^
 ||d2r173wcohmi6.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
@@ -3370,6 +3375,7 @@
 ||d41.co^
 ||d4n.platformd.com^
 ||dable.io^
+||dadgah.org^
 ||dads.wedobest.com.cn^
 ||dadsimz.com^
 ||daejyre.com^
@@ -3425,6 +3431,7 @@
 ||dc.banggood.com^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcbbwymp1bhlf.cloudfront.net^
+||dd.gillyspencie.com^
 ||dd1xbevqx.com^
 ||ddla593ymz72o.cloudfront.net^
 ||ddzk5l3bd.com^
@@ -3814,6 +3821,7 @@
 ||euroranking.de^
 ||eusta.de^
 ||eva-ad.24hstatic.com^
+||evasivewashoutsociety.com^
 ||event-action.popinfo.jp^
 ||event-collector.ayads.co^
 ||event-stream.spot.im^
@@ -3967,6 +3975,7 @@
 ||ff.imacdn.com^
 ||fhsmtrnsfnt.com^
 ||fhvfd.com^
+||fhyatbab.in^
 ||fibqukktuv.in^
 ||fidelity-media.com^
 ||fiftyt.com^
@@ -4227,6 +4236,7 @@
 ||gmxvmvptfm.com^
 ||gnar.grammarly.com^
 ||gnenuelnn.com^
+||gnschdti.com^
 ||go-clicks.de^
 ||go-mpulse.net^
 ||go-rank.de^
@@ -6072,6 +6082,7 @@
 ||oclasrv.com^
 ||od.stimefloccus.shop^
 ||oddsserve.com^
+||odloqsduxqha.in^
 ||odnvkuocmow.in^
 ||odqdkealzr.com^
 ||oewa.at^
@@ -6836,6 +6847,7 @@
 ||qn.unspedtaction.com^
 ||qnbeenbgsx.com^
 ||qnenxwwxzav.com^
+||qnfonjdhdpx.com^
 ||qnp16tstw.com^
 ||qnsr.com^
 ||qo.errorrespan.com^
@@ -6889,6 +6901,7 @@
 ||r3.visualwebsiteoptimizer.com^
 ||rabbit.tg.meitu.com^
 ||rabbitbreath.com^
+||rabon.org^
 ||rad.live.com^
 ||radiate.com^
 ||radiumone.com^
@@ -7206,6 +7219,7 @@
 ||s2.mopub.com^
 ||s2517.com^
 ||s2d6.com^
+||s2s.adjust.com^
 ||s2s.appsflyer.com^
 ||s2s.singular.net^
 ||s3-analytics-events.easybrain.com^
@@ -8601,6 +8615,7 @@
 ||uve.weibo.com^
 ||uvopoefe.com^
 ||uwoaptee.com^
+||ux.bagwigvendee.cfd^
 ||uyunad.com^
 ||uz.louchefunnel.shop^
 ||v.shopify.com^
@@ -8699,6 +8714,7 @@
 ||vietnamdaily-log.kienthuc.net.vn^
 ||vietnamnetad.vn^
 ||vietpub.com^
+||view.adjust.com^
 ||view4cash.de^
 ||viewdeos.com^
 ||viewpoint.com^

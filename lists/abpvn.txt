@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-11 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-13 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
 ! Cosmetic: 799
 ||ad.vidverto.io^
@@ -314,9 +314,6 @@ gocmod.com##center:has(.adsbygoogle)
 gocmod.com##div[style^="position: fixed"]
 googleapiscdn.com###avs-banner-overlay
 googleapiscdn.com###avs-pause-ad
-haysexhihi.com##.catfish-bottom
-haysexhihi.com##.catfish-top
-haysexhihi.com##.xx-ads
 haysexvn.shop###vl-header-adx
 haysexvn.shop##.castfish-wrappe
 haysexvn.shop##.popup
@@ -367,6 +364,7 @@ ipatool.codevn.net##.ad-left
 ipatool.codevn.net##.ad-right
 javgiga.wordpress.com##.pum-overlay
 javhdz.la##.catfish-bottom
+javnhe.tv##.xx-ads
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
 javtopxx2.com###fbox-background
 javtopxx2.com##.logo-player
@@ -444,15 +442,15 @@ monkeyd.net.vn###affLayer
 monkeyd.net.vn##.justify-content-center.d-flex.mx-3.mx-lg-4.mt-3>[href]
 monkeydtruyen.com###affLayer
 monkeydtruyen.com###affLayer2
-motchillm.io##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motchilltvphim.com###popup_banner_beta
 motchilltvphim.com##.sda-catfish
+motchillv.fm##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motchillxe.cc##.overlay-1
 motphimc.pw##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motphimchilll.fun###catfish_ad_top
 mphimtv.my##div[data-widget-id]
-nettruyen13s.com##.ad_info
-nettruyen13s.com##.ads_insert_shop
+nettruyen14s.com##.ad_info
+nettruyen14s.com##.ads_insert_shop
 nettruyenar.com##.banner
 new.tructiepnba.me##.truct-catfish
 new.tructiepnba.me##.truct-widget
@@ -504,7 +502,7 @@ phimhdcss.com##.mp-adz
 phimlongtieng.net##.banner-preload
 phimlongtieng.net##.banner-preload-container
 phimlongtieng.net##div[class^="catfish-"]
-phimmoic.ws##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+phimmoic.nl##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 phimmoichillz.top###pm_quangcao
 phimmoichillz.top###preload
 phimmoihd.it.com##.\32 xl\:left-2.sm\:left-1.left-0.-translate-y-1\/2.z-40.top-1\/2.fixed
@@ -541,15 +539,16 @@ quatvn.diy##.popup-banner
 quatvn.diy##.popup-overlay
 quatvn.diy##.preroll-content
 quatvn.diy##body>div[style^="position: fixed;"]
-rakhoizas.cc###wap_bottombanner
-rakhoizas.cc##.bookmaker-selector-container
-rakhoizas.cc##.btn-8xbet
-rakhoizas.cc##.btn-odds
-rakhoizas.cc##.footer-banner
-rakhoizas.cc##.sk_balloon
+rakhoizal.cc###wap_bottombanner
+rakhoizal.cc##.bookmaker-selector-container
+rakhoizal.cc##.btn-8xbet
+rakhoizal.cc##.btn-odds
+rakhoizal.cc##.footer-banner
+rakhoizal.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim10.store##.adserver
 rophim10.store##.mt-3.topics-line.topics-grid.topics-list
+rophimss.co.uk##.sspp-area
 rophimz.top##.float-ck-center-lt
 rphang.now###aboveFirstPost
 rphang.now##.bbMediaWrapper-inner>.samCodeUnit
@@ -572,7 +571,6 @@ sexphimhayw.pro##.quangcaomobile
 sextop.asia###video_player ~ div[id]
 sextop.asia##div[style^="position:fixed;inset:0px;z-index:100000;"]
 sexviet69.cc##.float-ck-center-lt
-smalltanks.co.uk##.sspp-area
 soha.vn##[id^="admzone"]
 soicau247s.org##.linkBanner
 sport5.vn##.afw-topbanner
@@ -798,17 +796,20 @@ voz.vn##[data-dest="placeholder"]
 voz.vn##div.message--post
 voz.vn##div[style]:has(.adsbypubpower)
 vozer.net##.Notices.PanelScroller
+vsexhihi.cc##.catfish-bottom
+vsexhihi.cc##.catfish-top
+vsexhihi.cc##.xx-ads
 vtcnews.vn##.sys-ads
 vuonhoalan.net##.content_middle_rightbar
 webhoctienganh.com##.button-action-float-banner
 wikidichvn.com###flyer
-www.1phim36.com##.BanerTop100
-www.1phim36.com##.adv-300-right
-www.1phim36.com##.banner-container
-www.1phim36.com##.banner-preload
-www.1phim36.com##.catfish-bottom
-www.1phim36.com##.catfish-top
-www.1phim36.com##a[rel="nofollow"]
+www.1phim38.com##.BanerTop100
+www.1phim38.com##.adv-300-right
+www.1phim38.com##.banner-container
+www.1phim38.com##.banner-preload
+www.1phim38.com##.catfish-bottom
+www.1phim38.com##.catfish-top
+www.1phim38.com##a[rel="nofollow"]
 www.2banh.vn##.grp-grp.header_wp
 www.2banh.vn##.lb_overlay
 www.7mvn9.com###bottomFixedDiv
@@ -859,7 +860,6 @@ xnhau.foo##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
-xxviet.net##.xx-ads
 yanhh3d.chat###catfish-ads
 ybox.vn###ybox-H1>div[style]
 ycongnghe.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
