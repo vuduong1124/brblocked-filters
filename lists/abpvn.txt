@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-13 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-14 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
-! Cosmetic: 798
+! Cosmetic: 802
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -448,6 +448,7 @@ motchillv.fm##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.
 motchillxe.cc##.overlay-1
 motphimc.pw##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motphimchilll.fun###catfish_ad_top
+moviehdthai.com##.sspp-area
 mphimtv.my##div[data-widget-id]
 nettruyen14s.com##.ad_info
 nettruyen14s.com##.ads_insert_shop
@@ -523,9 +524,9 @@ plcdn.xyz##.odds-button2
 qdnd.vn##.box-banner
 qmanga.art##.gwd-banner-image
 qmh.garden###catfish-ad-banner
-qmhv3.fit##.global-sticky-ads
-qmhv3.fit##.header>app-banner
-qmhv3.fit##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+qmhv3.club##.global-sticky-ads
+qmhv3.club##.header>app-banner
+qmhv3.club##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
 quantrimang.com###adrighttop
 quantrimang.com###adsposttop
 quantrimang.com##.adbox
@@ -545,7 +546,6 @@ rakhoizal.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim10.store##.adserver
 rophim10.store##.mt-3.topics-line.topics-grid.topics-list
-rophimss.co.uk##.sspp-area
 rophimz.top##.float-ck-center-lt
 rphang.now###aboveFirstPost
 rphang.now##.bbMediaWrapper-inner>.samCodeUnit
@@ -817,6 +817,10 @@ www.8phim1.com##div[class^="catfish-"]
 www.asianbookie.org##a[href^="/cgi-bin/to.cgi"]
 www.asu.baby##.nhacai
 www.asu.baby##.nhacai2
+www.chuoichientv1.live##.ad-catfish
+www.chuoichientv1.live##.ad-topbanners
+www.chuoichientv1.live##.cct-partner-row
+www.chuoichientv1.live##.cct-sponsor-strip
 www.clbgamesvn.com##.bannerBox
 www.clbgamesvn.com##.footerBanner
 www.clbgamesvn.com##center>[href*="tlink.vn"]
@@ -853,9 +857,9 @@ xiuren.org###bannerIn
 xiuren.org###exoIMFrame
 xiuren.org###nativeAds_1505931906161
 xiuren.org##div[id^="exo_slider_"]
-xnhau.foo##.fp-ui>div[style]
-xnhau.foo##.sponsor
-xnhau.foo##.spot
+xnhau.dad##.fp-ui>div[style]
+xnhau.dad##.sponsor
+xnhau.dad##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
