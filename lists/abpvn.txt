@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-15 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-16 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
 ! Cosmetic: 803
 ||ad.vidverto.io^
@@ -94,14 +94,14 @@ afamily.vn##.afw-topbanner
 amlich.org##.banner-container
 anime47.best###qc_clgt
 anime47.best###swiper-wrapper
-animehay14.site###catfish
-animehay14.site###header-ads + center
-animehay14.site###sponsor-balloon
-animehay14.site###top-banner
-animehay14.site##.under_player.flex-hozi-center.flex-column.flex
-animehay14.site##[src*=".gif"]
-animehay14.site##body>div[style^="position: fixed"]
-animehay14.site##div[style="position: fixed; bottom: 0px; z-index: 98; width: 100%; text-align: center; box-sizing: border-box;"]
+animehay15.site###catfish
+animehay15.site###header-ads + center
+animehay15.site###sponsor-balloon
+animehay15.site###top-banner
+animehay15.site##.under_player.flex-hozi-center.flex-column.flex
+animehay15.site##[src*=".gif"]
+animehay15.site##body>div[style^="position: fixed"]
+animehay15.site##div[style="position: fixed; bottom: 0px; z-index: 98; width: 100%; text-align: center; box-sizing: border-box;"]
 animesub.site###fbox-background
 animesub.site###menubentrai
 animesub.site##.gnartyx-offads
@@ -175,8 +175,6 @@ cafef.vn##.box-adm
 cafef.vn##[class^="ads_"]
 cap3.video###catfish-ad-banner
 cbox.ws##a[rel="noopener noreferrer"]
-chanpuruchannel.com###popup-ad-box
-chanpuruchannel.com##.banner-ad
 chap.vn##.my_responsive_add
 chap.vn##.titleBar + *
 chap.vn##[class1="my_responsive_add"]
@@ -191,8 +189,8 @@ chophim.fun##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-
 chophimviet.top###scriptDiv:has(.adsbygoogle)
 chotlo3s.com##div[id^="float"]
 chotlo3s.com##div[id^="hide_float"]
-cliphot69.space###custom_html-42
-cliphot69.space##.float-ck-center-lt
+cliphot69.cloud###custom_html-42
+cliphot69.cloud##.float-ck-center-lt
 cliphotvn69.com##.float-ck-center-lt
 clipphot.co##.cashfish
 clipphot.co##.mini-player
@@ -323,7 +321,7 @@ hh3dhay.ceo###overlay
 hh3dhay.ceo###top_addd
 hhdragon.blog###catfish
 hhdragon.blog##.catfish-img
-hhninja.lol###catfish
+hhninja1.lol###catfish
 hhtm.club###catfish-ads
 hhtq.baby###catfish
 hhtq.baby###sponsor-balloon
@@ -363,7 +361,8 @@ idpvn.com##[id^="idpvn-"]
 ipatool.codevn.net##.ad-left
 ipatool.codevn.net##.ad-right
 javgiga.wordpress.com##.pum-overlay
-javhdz.la##.catfish-bottom
+javhdz.one##.catfish-bottom
+javnhatban.net##.xx-ads
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
 javtopxx2.com###fbox-background
 javtopxx2.com##.logo-player
@@ -390,6 +389,8 @@ kinhtedothi.vn##[id^="adv"]
 laalmirchitakeaway.co.uk##.banner-preload
 laalmirchitakeaway.co.uk##.catfish-bottom
 laalmirchitakeaway.co.uk##.catfish-top
+lannuaireduparieur.com###popup-ad-box
+lannuaireduparieur.com##.banner-ad
 laocai24.com##.pcs-modal
 laptrinhcanban.com##.ezoic-ad
 lazi.vn##.quang_cao_pc_right_hoc_tap
@@ -503,12 +504,11 @@ phimhdcss.com##.mp-adz
 phimmoic.info##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 phimmoichillz.top###pm_quangcao
 phimmoichillz.top###preload
-phimmoihd.it.com##.\32 xl\:left-2.sm\:left-1.left-0.-translate-y-1\/2.z-40.top-1\/2.fixed
-phimmoihd.it.com##.\32 xl\:right-2.sm\:right-1.right-0.-translate-y-1\/2.z-40.top-1\/2.fixed
-phimmoihd.it.com##.p-4.bg-black\/70.overflow-y-auto.justify-center.items-center.flex.z-\[70\].inset-0.fixed
-phimmoihd.it.com##.pt-3.pb-1.px-2.z-\[60\].bottom-0.inset-x-0.fixed
+phimmoihd.online##.\32 xl\:left-2.sm\:left-1.left-0.-translate-y-1\/2.z-40.top-1\/2.fixed
+phimmoihd.online##.\32 xl\:right-2.sm\:right-1.right-0.-translate-y-1\/2.z-40.top-1\/2.fixed
+phimmoihd.online##.p-4.bg-black\/70.overflow-y-auto.justify-center.items-center.flex.z-\[70\].inset-0.fixed
+phimmoihd.online##.pt-3.pb-1.px-2.z-\[60\].bottom-0.inset-x-0.fixed
 phimsexhayvne.com##.float-ck-center-lt
-phimsexjav.tv##.xx-ads
 phimsexsuong3x.net##.catfish-bottom
 phimtho.cc###popup_banner_beta
 phimtuoitho.tv##.pc-catfixx
@@ -548,13 +548,13 @@ reatimes.vn##div[class^="adv-"]
 rophim10.work##.adserver
 rophim10.work##.mt-3.topics-line.topics-grid.topics-list
 rophimz.top##.float-ck-center-lt
-rphang.now###aboveFirstPost
-rphang.now##.bbMediaWrapper-inner>.samCodeUnit
-rphang.now##.js-replyNewMessageContainer.block-body>div.samCodeUnit>.samItem
-rphang.now##.p-footer
-rphang.now##.samVideoOverlay
-rphang.now##div.samCodeUnit[data-position="footer_fixed"]
-rphang.now##div.samItem:has(video.topmobileads)
+rphang.moda###aboveFirstPost
+rphang.moda##.bbMediaWrapper-inner>.samCodeUnit
+rphang.moda##.js-replyNewMessageContainer.block-body>div.samCodeUnit>.samItem
+rphang.moda##.p-footer
+rphang.moda##.samVideoOverlay
+rphang.moda##div.samCodeUnit[data-position="footer_fixed"]
+rphang.moda##div.samItem:has(video.topmobileads)
 sachmoi.net##.boxzilla-bottom-right-container
 sachmoi.net##[href^="https://gotrackecom.info"]
 saostar.vn###mobi-top
@@ -806,15 +806,15 @@ www.2banh.vn##.lb_overlay
 www.7mvn9.com###bottomFixedDiv
 www.7mvn9.com###js_pup_navigation
 www.7mvn9.com##tr[id^="word_"]
-www.8phim1.com##.BanerTop100
-www.8phim1.com##.adv-300-right
-www.8phim1.com##.banner-container
-www.8phim1.com##.banner-preload
-www.8phim1.com##.banner-preload-container
-www.8phim1.com##.catfish-bottom
-www.8phim1.com##.catfish-top
-www.8phim1.com##a[rel="nofollow"]
-www.8phim1.com##div[class^="catfish-"]
+www.8phim2.com##.BanerTop100
+www.8phim2.com##.adv-300-right
+www.8phim2.com##.banner-container
+www.8phim2.com##.banner-preload
+www.8phim2.com##.banner-preload-container
+www.8phim2.com##.catfish-bottom
+www.8phim2.com##.catfish-top
+www.8phim2.com##a[rel="nofollow"]
+www.8phim2.com##div[class^="catfish-"]
 www.asianbookie.org##a[href^="/cgi-bin/to.cgi"]
 www.asu.baby##.nhacai
 www.asu.baby##.nhacai2
@@ -839,15 +839,15 @@ www.saostar.vn###page-skin-top-holder
 www.saostar.vn###pc-bill-top
 www.saostar.vn###pc-bill-top-1
 www.sieutamphim.pro###scriptDiv
-www.toptruyenzone12.com##.advertisement
+www.toptruyenzone13.com##.advertisement
 www.webtretho.vn##.wtt-ads
 x.phimsexvn1.co.uk###ads-wrapper
 x.phimsexvn1.co.uk###cashfit-spacer
 x.phimsexvn1.co.uk##.ads-header
-xamvn.lifestyle##.float-ck-center-lt
-xamvn.lifestyle##.float-contact
-xamvn.lifestyle##.float-contact2
-xamvn.lifestyle##.js-notices
+xamvn.yachts##.float-ck-center-lt
+xamvn.yachts##.float-contact
+xamvn.yachts##.float-contact2
+xamvn.yachts##.js-notices
 xehay.vn###banner1ab
 xehay.vn###banner3double
 xem1080.com##.banner-masthead
