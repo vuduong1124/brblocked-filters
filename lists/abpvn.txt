@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-17 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-18 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 69
-! Cosmetic: 804
+! Cosmetic: 805
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -244,7 +244,6 @@ doctruyenqq.net##.md-overlay
 doctruyenqq.net##.md-show.md-effect.popup1
 docviewer.yandex.com##.js-doc-html>div>div[id]
 doisongphapluat.com.vn##.sys-ads
-dongsex.net##.xx-ads
 download.com.vn##.adbox
 download.vn##.adbox
 download.vn##div[id^="adsbg"]
@@ -469,6 +468,7 @@ olm.vn##.olm-ads
 onflix.lat##.fixed.inset-0.z-\[100\].flex.items-center.justify-center.bg-black\/60.p-4.animate-in.fade-in.duration-300
 onflix.lat##.lg\:bottom-0.bottom-\[94px\].duration-300.transition-all.pointer-events-none.justify-center.flex.z-40.inset-x-0.fixed
 onflix.lat##.space-y-0.py-2.lg\:pl-14.md\:px-12.px-1.w-full > .px-4.mx-auto.container.my-4.w-full.items-center.justify-center.flex
+onflix.lat##.space-y-0.py-2.lg\:pl-14.md\:px-12.px-1.w-full>.lg\:px-8.sm\:px-6.px-3.my-4.w-full
 outlook.live.com##.LBktY>.GssDD
 outlook.live.com##div[data-viewport-type="element"] .Ogt7j
 pagerrentablespotlight.com###ad_info_top
@@ -560,6 +560,9 @@ saostar.vn##.ads
 saostar.vn##.pc-bill
 sayhentai.cx##.float-ck-center-lt
 sexhayvl.co.uk##.quangcaomobile
+sexhihi3x.cc##.catfish-bottom
+sexhihi3x.cc##.catfish-top
+sexhihi3x.cc##.xx-ads
 sexmupxinh.net##.catfish-top
 sexmupxinh.net##.catfix
 sexmupxinh.net##.xx-ads
@@ -795,9 +798,6 @@ voz.vn##[data-dest="placeholder"]
 voz.vn##div.message--post
 voz.vn##div[style]:has(.adsbypubpower)
 vozer.net##.Notices.PanelScroller
-vsexhihi.cc##.catfish-bottom
-vsexhihi.cc##.catfish-top
-vsexhihi.cc##.xx-ads
 vtcnews.vn##.sys-ads
 vuonhoalan.net##.content_middle_rightbar
 webhoctienganh.com##.button-action-float-banner
@@ -859,12 +859,13 @@ xiuren.org###bannerIn
 xiuren.org###exoIMFrame
 xiuren.org###nativeAds_1505931906161
 xiuren.org##div[id^="exo_slider_"]
-xnhau.dad##.fp-ui>div[style]
-xnhau.dad##.sponsor
-xnhau.dad##.spot
+xnhau.pub##.fp-ui>div[style]
+xnhau.pub##.sponsor
+xnhau.pub##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
+xvietsub.com##.xx-ads
 yanhh3d.chat###catfish-ads
 ybox.vn###ybox-H1>div[style]
 ycongnghe.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
