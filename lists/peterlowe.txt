@@ -1,8 +1,8 @@
 ! Title: Peter Lowe
 ! Source: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 ! License: https://pgl.yoyo.org/adservers/policy.php
-! Converted: 2026-10-16 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 3554
+! Converted: 2026-10-19 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 3555
 ! Cosmetic: 0
 ||101com.com^
 ||180hits.de^
@@ -1034,6 +1034,7 @@
 ||beachfront.com^
 ||beacon.gu-web.net^
 ||beacon.netflix.com^
+||beacon.viafoura.io^
 ||beacons.gcp.gvt2.com^
 ||beacons.gvt2.com^
 ||bebi.com^
