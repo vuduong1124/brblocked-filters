@@ -1,6 +1,6 @@
 # sha256	file	domains	cosmetic	updated	title	description
 c9908162233aad93cdc5da6d25b6f4894a69d8c1807c871e3484ba7ebd474591	hostsvn.txt	9257	0	2026-10-13	hostsVN	Quảng cáo và web lừa đảo ở Việt Nam
 4f9b9c8aab9f7bcb5dc2f4714c8e3f4b3cb27382d0983775211c73befeca3571	adaway.txt	4267	0	2026-09-30	AdAway	Danh sách của app AdAway
-050d3c0bf730846b49bbf0ce78f76f90ca8b6372196402307a887b2b0699e238	peterlowe.txt	3555	0	2026-10-19	Peter Lowe	Danh sách nhỏ, ít chặn nhầm
-4d231fc8d7d3d55d6decb90977b1d7e8a4aa1dd1bbbab2598754e6d14c4c7775	easylist.txt	52705	16477	2026-10-19	EasyList	Chuẩn của uBlock/AdBlock: domain và ẩn phần tử theo site
-a3f10c3a5344ede60fbf6b0bb9de6a9517cf839a95e11dab61718d19c98a11b4	abpvn.txt	70	807	2026-10-19	ABPVN	Chuyên site Việt Nam
+4a715d9d1b0e5ccf8fd2d3eacc0051e6eed0c229cd3af54ee4b59feb0fe11ee4	peterlowe.txt	3557	0	2026-10-20	Peter Lowe	Danh sách nhỏ, ít chặn nhầm
+88f751f7fa400796341261720933b4e3d1f632ca0bdd7f124b041ec7d04e6d44	easylist.txt	53037	16479	2026-10-20	EasyList	Chuẩn của uBlock/AdBlock: domain và ẩn phần tử theo site
+553c5a9e5be4c3e3e942c1b95e6bb19b605ae54029330166455f0534b52947a1	abpvn.txt	70	807	2026-10-20	ABPVN	Chuyên site Việt Nam
