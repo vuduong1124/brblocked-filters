@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-20 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-21 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 70
 ! Cosmetic: 807
 ||ad.vidverto.io^
@@ -254,8 +254,6 @@ dubaotiente.net##.adv
 dynadot.rsocdomains.com###video_player ~ div[id]
 dynadot.rsocdomains.com##.float-ck-center-lt
 ebookbkmt.com##.top-right
-elitburo.com###popup-ad-box
-elitburo.com##.banner-ad
 ephoto360.com##.ad-container
 ephoto360.com##.line-ads
 eva.vn##.banrpstn
@@ -363,7 +361,6 @@ i2pd.website##div[class*="size-"]
 idpvn.com##[id^="idpvn-"]
 ipatool.codevn.net##.ad-left
 ipatool.codevn.net##.ad-right
-jav18tv.com##.xx-ads
 javgiga.wordpress.com##.pum-overlay
 javhdz.one##.catfish-bottom
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
@@ -402,10 +399,10 @@ lichvannien365.com##div[style="width: 100%; min-height: 90px; text-align: center
 lichvannien365.com##div[style="width: 100%;text-align: center;min-height: 280px;"]
 linkneverdie.net##.info-footer:nth-child(4)
 linkneverdie.top##.info-footer:nth-child(4)
-live09.chuoichientv.me##.bet-btn-wrap
-live09.chuoichientv.me##.fixed.inset-0.z-\[9999\].bg-black\/80.flex.items-center.justify-center.p-4
-live09.chuoichientv.me##.fixed.inset-0.z-\[9999\].flex.items-center.justify-center.p-4.popup-backdrop
-live09.chuoichientv.me##.quality-right-group>a[rel="noopener sponsored"]
+live10.chuoichientv.me##.bet-btn-wrap
+live10.chuoichientv.me##.fixed.inset-0.z-\[9999\].bg-black\/80.flex.items-center.justify-center.p-4
+live10.chuoichientv.me##.fixed.inset-0.z-\[9999\].flex.items-center.justify-center.p-4.popup-backdrop
+live10.chuoichientv.me##.quality-right-group>a[rel="noopener sponsored"]
 lmssplus.org##p[style="color: rgb(174, 174, 174); margin-top: 10px; margin-bottom: 20px;"]
 loigiaihay.com###countdown
 loigiaihay.com##.section-gqc1
@@ -434,6 +431,8 @@ metruyencv.com##[href$="/goout/lazada"]
 metruyencv.com##section.nh-section:nth-of-type(5)
 metruyencv.net##[href$="/goout/lazada"]
 metruyencv.net##section.nh-section:nth-of-type(5)
+mgmenjoy85.com###popup-ad-box
+mgmenjoy85.com##.banner-ad
 minhngoc.net.vn##[id^="adv"]
 misseschloe.co.za###vl-header-adx
 misseschloe.co.za##.catfish-bottom
@@ -516,7 +515,6 @@ phimtuoitho.tv##.pc-catfixx
 phunumoi.net.vn##div[id^="ads_"]
 phuongtrinhhoahoc.com##.fixed
 phuongtrinhhoahoc.com##.shadow-card + .mt-2
-pixnet.cc##.sspp-area
 play.zpic.org##.btm_bar
 play.zpic.org##div.ad-container
 player-cdn.com###player + div[id]
@@ -550,6 +548,7 @@ reatimes.vn##div[class^="adv-"]
 rophim1.vip##.sspp-area
 rophim10.best##.adserver
 rophim10.best##.mt-3.topics-line.topics-grid.topics-list
+rophimz.sh##.sspp-area
 rophimz.top##.float-ck-center-lt
 rphang.beer###aboveFirstPost
 rphang.beer##.bbMediaWrapper-inner>.samCodeUnit
@@ -808,18 +807,18 @@ webhoctienganh.com##.button-action-float-banner
 wikidichvn.com###flyer
 www.2banh.vn##.grp-grp.header_wp
 www.2banh.vn##.lb_overlay
-www.2phim1.com##.BanerTop100
-www.2phim1.com##.adv-300-right
-www.2phim1.com##.banner-container
-www.2phim1.com##.banner-preload
-www.2phim1.com##.banner-preload-container
-www.2phim1.com##.catfish-bottom
-www.2phim1.com##.catfish-top
-www.2phim1.com##a[rel="nofollow"]
-www.2phim1.com##div[class^="catfish-"]
 www.7mvn9.com###bottomFixedDiv
 www.7mvn9.com###js_pup_navigation
 www.7mvn9.com##tr[id^="word_"]
+www.8phimz.com##.BanerTop100
+www.8phimz.com##.adv-300-right
+www.8phimz.com##.banner-container
+www.8phimz.com##.banner-preload
+www.8phimz.com##.banner-preload-container
+www.8phimz.com##.catfish-bottom
+www.8phimz.com##.catfish-top
+www.8phimz.com##a[rel="nofollow"]
+www.8phimz.com##div[class^="catfish-"]
 www.asianbookie.org##a[href^="/cgi-bin/to.cgi"]
 www.asu.baby##.nhacai
 www.asu.baby##.nhacai2
@@ -869,6 +868,7 @@ xnhau.pub##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
+xphimsex.org##.xx-ads
 yanhh3d.chat###catfish-ads
 ybox.vn###ybox-H1>div[style]
 ycongnghe.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
