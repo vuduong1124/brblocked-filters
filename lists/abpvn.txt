@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-21 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-22 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 70
-! Cosmetic: 807
+! Cosmetic: 816
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -109,9 +109,9 @@ animesub.site##.gnartyx-offads
 animesub.site##.jw-logo
 animesub.site##.mp-adz
 animesub.site##.sticky_bottom
-animetvn.lol###fbox-background
-animetvn.lol###mobile-ads
-animetvn.lol##.gnarty-offads
+animetvn.gay###fbox-background
+animetvn.gay###mobile-ads
+animetvn.gay##.gnarty-offads
 animevietsub.sale###_preload-ads-1
 animevietsub.sale###invideo_wrapper
 animevietsub.sale##.Ads
@@ -260,6 +260,15 @@ eva.vn##.banrpstn
 fhd-01.cctvsignal.xyz##.banner-player
 fhd-01.cctvsignal.xyz##.bet-button-player
 file.gocmod.com##div.ad
+film4k.fun##.unit-bar
+film4k.fun##.unit-fish
+film4k.fun##.unit-sheet
+film4k.net##.unit-bar
+film4k.net##.unit-fish
+film4k.net##.unit-sheet
+film4k.pl##.unit-bar
+film4k.pl##.unit-fish
+film4k.pl##.unit-sheet
 freeplayervideo.com###player + div[id]
 freeplayervideo.com##.jw-logo
 freeplayervideo.com##.playover
@@ -445,10 +454,10 @@ monkeydtruyen.com###affLayer
 monkeydtruyen.com###affLayer2
 motchilltvphim.com###popup_banner_beta
 motchilltvphim.com##.sda-catfish
-motchillv.cx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+motchillu.mx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motchillxe.cc##.overlay-1
 motphimc.mx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
-motphimchilll.click###catfish_ad_top
+motphimchilll.icu###catfish_ad_top
 mphimtv.my##div[data-widget-id]
 nettruyen14s.com##.ad_info
 nettruyen14s.com##.ads_insert_shop
@@ -501,7 +510,7 @@ phimdacap.tv###ads-popup
 phimdacap.tv###catfish
 phimhdc.com##.mp-adz
 phimhdcss.com##.mp-adz
-phimmoic.cx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+phimmoic.id##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 phimmoichillz.top###pm_quangcao
 phimmoichillz.top###preload
 phimmoihd.online##.\32 xl\:left-2.sm\:left-1.left-0.-translate-y-1\/2.z-40.top-1\/2.fixed
@@ -842,7 +851,7 @@ www.saostar.vn###mobi-sapo
 www.saostar.vn###page-skin-top-holder
 www.saostar.vn###pc-bill-top
 www.saostar.vn###pc-bill-top-1
-www.sieutamphim.pro###scriptDiv
+www.sieutamphim.top###scriptDiv
 www.toptruyenzone13.com##.advertisement
 www.webtretho.vn##.wtt-ads
 x.phimsexvn1.co.uk###ads-wrapper

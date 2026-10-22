@@ -1,8 +1,8 @@
 ! Title: Peter Lowe
 ! Source: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 ! License: https://pgl.yoyo.org/adservers/policy.php
-! Converted: 2026-10-20 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 3557
+! Converted: 2026-10-22 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 3558
 ! Cosmetic: 0
 ||101com.com^
 ||180hits.de^
@@ -2981,6 +2981,7 @@
 ||sprysummit.com^
 ||spulse.net^
 ||spylog.com^
+||spyrep.com^
 ||spywarelabs.com^
 ||spywords.com^
 ||srvmath.com^
