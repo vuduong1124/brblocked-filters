@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-22 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-23 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 70
-! Cosmetic: 816
+! Cosmetic: 815
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -60,7 +60,7 @@
 ||pub.akadigital.vn^
 ||pub.lavamedia.vn^
 ||pub.lavanetwork.net^
-||q3ei4f.rophim10.best^
+||q3ei4f.rophim10.cam^
 ||qc.coccoc.com^
 ||qc.violet.vn^
 ||realclick.vn^
@@ -248,7 +248,7 @@ doisongphapluat.com.vn##.sys-ads
 download.com.vn##.adbox
 download.vn##.adbox
 download.vn##div[id^="adsbg"]
-dualeotruyenbet.com##[id$="bnr"]
+dualeotruyenday.com##[id$="bnr"]
 dubaotiente.net##.ad-pin-right-bottom
 dubaotiente.net##.adv
 dynadot.rsocdomains.com###video_player ~ div[id]
@@ -304,13 +304,13 @@ giadinhonline.vn##.adv
 giadinhonline.vn##.exp_qc_share
 giavang.org##.sponsor-img
 giavang.org##.tradingview-widget-copyright
-giovang.bet##.balloon-wrapper
-giovang.bet##.banner_popup
-giovang.bet##.banners-bottom
-giovang.bet##.bc-hidden-link.seo4s-resolve-link
-giovang.bet##.box-odds-match
-giovang.bet##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
-giovang.bet##.nav-top-nha-cai
+giovang.uno##.balloon-wrapper
+giovang.uno##.banner_popup
+giovang.uno##.banners-bottom
+giovang.uno##.bc-hidden-link.seo4s-resolve-link
+giovang.uno##.box-odds-match
+giovang.uno##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
+giovang.uno##.nav-top-nha-cai
 gockhuat.net###ad_global_below_navbar
 gocmod.com###bannerContainer1
 gocmod.com###bannerContainer2
@@ -458,7 +458,6 @@ motchillu.mx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.
 motchillxe.cc##.overlay-1
 motphimc.mx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motphimchilll.icu###catfish_ad_top
-mphimtv.my##div[data-widget-id]
 nettruyen14s.com##.ad_info
 nettruyen14s.com##.ads_insert_shop
 nettruyenar.com##.banner
@@ -534,9 +533,9 @@ plcdn.xyz##.odds-button2
 qdnd.vn##.box-banner
 qmanga.art##.gwd-banner-image
 qmh.garden###catfish-ad-banner
-qmhv3.cc##.global-sticky-ads
-qmhv3.cc##.header>app-banner
-qmhv3.cc##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+qmhv3.biz##.global-sticky-ads
+qmhv3.biz##.header>app-banner
+qmhv3.biz##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
 quantrimang.com###adrighttop
 quantrimang.com###adsposttop
 quantrimang.com##.adbox
@@ -555,8 +554,8 @@ rakhoizat.cc##.footer-banner
 rakhoizat.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim1.vip##.sspp-area
-rophim10.best##.adserver
-rophim10.best##.mt-3.topics-line.topics-grid.topics-list
+rophim10.cam##.adserver
+rophim10.cam##.mt-3.topics-line.topics-grid.topics-list
 rophimz.sh##.sspp-area
 rophimz.top##.float-ck-center-lt
 rphang.beer###aboveFirstPost
@@ -573,9 +572,9 @@ saostar.vn##.ads
 saostar.vn##.pc-bill
 sayhentai.cx##.float-ck-center-lt
 sexhayvl.co.uk##.quangcaomobile
-sexhihi3x.cc##.catfish-bottom
-sexhihi3x.cc##.catfish-top
-sexhihi3x.cc##.xx-ads
+sexhihi9x.me##.catfish-bottom
+sexhihi9x.me##.catfish-top
+sexhihi9x.me##.xx-ads
 sexmupxinh.net##.catfish-top
 sexmupxinh.net##.catfix
 sexmupxinh.net##.xx-ads
