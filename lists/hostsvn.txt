@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ! License: MIT, https://github.com/bigdargon/hostsVN
-! Converted: 2026-10-13 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 9257
+! Converted: 2026-10-24 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 9282
 ! Cosmetic: 0
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -191,6 +191,7 @@
 ||acobt.tech^
 ||acquiredeceasedundress.com^
 ||acridtwist.com^
+||acs-mum.alibabachengdun.com^
 ||acsbapp.com^
 ||acscdn.com^
 ||acsseo.com^
@@ -1661,6 +1662,7 @@
 ||amillionads.com^
 ||amntx1.net^
 ||amobee.com^
+||amplitude.com^
 ||ampmhcbehnapwt.com^
 ||amuletgloom.com^
 ||amunfezanttor.com^
@@ -1888,7 +1890,6 @@
 ||api.ad.intl.xiaomi.com^
 ||api.ad.xiaomi.com^
 ||api.adomik.com^
-||api.amplitude.com^
 ||api.appcloudbox.net^
 ||api.applovefrom.com^
 ||api.appnexus.com^
@@ -1902,7 +1903,6 @@
 ||api.collect.data.intl.miui.com^
 ||api.country.is^
 ||api.d.xiaomi.com^
-||api.eu.amplitude.com^
 ||api.exc.mob.com^
 ||api.feedad.com^
 ||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
@@ -1910,7 +1910,6 @@
 ||api.getdrip.com^
 ||api.intensifier.de^
 ||api.iterable.com^
-||api.lab.amplitude.com^
 ||api.mbrx.app^
 ||api.monedata.io^
 ||api.moneyoyo.org^
@@ -1934,7 +1933,6 @@
 ||api.widget.zalo.me^
 ||api.wipmania.com^
 ||api.youngle.site^
-||api2.amplitude.com^
 ||api2.appsflyer.com^
 ||api2.boclinkads.com^
 ||api2.poperblocker.com^
@@ -1947,8 +1945,11 @@
 ||apiv2.tiin.vn^
 ||apiv4.subiz.com^
 ||apl.headlines.pw^
+||aplus.alibaba.com^
 ||apm-collector.daumkakao.io^
 ||apm-log-upload-os.hoyoverse.com^
+||apmplus.ap-southeast-1.volces.com^
+||apmplus.volces.com^
 ||apoilpnwr.com^
 ||apolloprogram.io^
 ||app-adforce.jp^
@@ -2006,7 +2007,6 @@
 ||appolicious.com^
 ||apprebates.com^
 ||appredeem.com^
-||appres.camera360.com^
 ||apps.haraads.com^
 ||apps.media-lab.ai^
 ||apps.sascdn.com^
@@ -2028,13 +2028,13 @@
 ||apx.rdkt.avazutracking.net^
 ||apx.trck.avazutracking.net^
 ||apx.ui.avazutracking.net^
+||apzptquixoyr.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqauikfd.com^
 ||aqua-adserver.com^
 ||aquaticowl.com^
 ||aralego.com^
 ||aralego.net^
-||arc.io^
 ||archswimming.com^
 ||arcspire.io^
 ||ard.yahoo.co.jp^
@@ -2162,6 +2162,7 @@
 ||awin1.com^
 ||awjojjrimaf.in^
 ||awmdelivery.com^
+||awqmgvpbarmhyw.com^
 ||aws-api.sail-personalize.com^
 ||aws-api.sail-track.com^
 ||awsync.yandex.ru^
@@ -2350,6 +2351,7 @@
 ||begun.ru^
 ||behavioralengine.com^
 ||beixisys.com^
+||beizi.biz^
 ||beklefkiom.com^
 ||belia-glp.com^
 ||belstat.com^
@@ -2743,7 +2745,6 @@
 ||cdn.adt567.net^
 ||cdn.adt574.com^
 ||cdn.adt598.com^
-||cdn.amplitude.com^
 ||cdn.appsflyer.com^
 ||cdn.avantisvideo.com^
 ||cdn.avazutracking.net^
@@ -3052,6 +3053,7 @@
 ||collect-v6.51.la^
 ||collect.analyse.lnearn.com^
 ||collect.banggood.com^
+||collect.camera360.com^
 ||collect.data.tm-awx.com^
 ||collect.igodigital.com^
 ||collect.ovp.vn^
@@ -3535,6 +3537,7 @@
 ||discovernative.com^
 ||discreetfield.com^
 ||dismantlepenantiterrorist.com^
+||dispatcher.camera360.com^
 ||display-ad-rgt0me85.kgslb.com^
 ||displayadsmedia.com^
 ||displaycontentprofit.com^
@@ -4141,6 +4144,7 @@
 ||gangwaynumberprivacy.com^
 ||gaseousgeneral.com^
 ||gatetodisplaycontent.com^
+||gator.volces.com^
 ||gaug.es^
 ||gayadnetwork.com^
 ||gbqofs.com^
@@ -4615,6 +4619,7 @@
 ||ij.cobolgammed.com^
 ||ik.hatcheskoeri.shop^
 ||ikahnruntx.com^
+||il.coiffesreal.qpon^
 ||ilead.itrack.it^
 ||ileeckut.com^
 ||illustriousoatmeal.com^
@@ -5029,6 +5034,7 @@
 ||launches.appsflyersdk.com^
 ||lavamedia.vn^
 ||lavanetwork.net^
+||lavnkios.in^
 ||laxativestuckunclog.com^
 ||layer-ad.de^
 ||layer-ads.de^
@@ -5437,6 +5443,7 @@
 ||manage.com^
 ||mandateowl.com^
 ||manpowerspiritualunrented.com^
+||maobtqwrqrzxm.com^
 ||mapbasin.com^
 ||marasgumpus.com^
 ||marazma.com^
@@ -5502,6 +5509,7 @@
 ||mautic.sts.vn^
 ||mautic.teky.edu.vn^
 ||mautic.vmax.vn^
+||mauve-pinkgetawhifftime.com^
 ||mavq.net^
 ||mawlaybob.com^
 ||mawptuaz.com^
@@ -5832,6 +5840,7 @@
 ||mssdk.capcutapi.us^
 ||mssdk.tiktokw.eu^
 ||mssdk.tiktokw.us^
+||mssdk.volces.com^
 ||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal-us-ttp.capcutapi.us^
 ||mssdk16-normal.capcutapi.com^
@@ -5852,6 +5861,8 @@
 ||muermoabject.shop^
 ||mugpothop.com^
 ||multilinkhost.com^
+||mum.alibabachengdun.com^
+||mum.alibabachengdun.net^
 ||mumazfqir.in^
 ||murkymouse.online^
 ||mushroomreclaimschnapps.com^
@@ -6321,6 +6332,10 @@
 ||pangle-b.io^
 ||pangle.io^
 ||pangle.pangleglobal.com^
+||pangolin-dsp-toutiao.com^
+||pangolin-sdk-toutiao-b.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
 ||pangolin16.sgsnssdk.com^
 ||papaneecorche.com^
 ||papayamobile.com^
@@ -6424,6 +6439,7 @@
 ||petasusawber.com^
 ||petchesa.net^
 ||peuru.com^
+||pglstatp-toutiao.com^
 ||pgmcdn.com^
 ||pgmediaserve.com^
 ||pgpartner.com^
@@ -6790,6 +6806,7 @@
 ||pushmaster-cdn.xyz^
 ||pushmeup.art^
 ||pushmono.com^
+||pushmsg.camera360.com^
 ||pushnami.com^
 ||pushno.com^
 ||pushpong.net^
@@ -7022,6 +7039,7 @@
 ||reluctancefleck.com^
 ||remotepwn.com^
 ||remox.com^
+||renamereptiliantrance.com^
 ||renderstreamshuttleanalytics.net^
 ||repeatsweater.com^
 ||reporo.net^
@@ -7940,6 +7958,7 @@
 ||t85itha3nitde.com^
 ||ta.toprework.vn^
 ||ta3nfsordd.com^
+||tab.volces.com^
 ||tabmo2018.go2cloud.org^
 ||taboola.com^
 ||taboola.com.cn^
@@ -8007,6 +8026,7 @@
 ||tcugibodvow.in^
 ||tdf.ringier.ch^
 ||tdid.m.qq.com^
+||tdum.alibaba.com^
 ||teads.tv^
 ||tealeaf.com^
 ||tealium.com^
@@ -8280,6 +8300,7 @@
 ||tracker.affirm.com^
 ||tracker.ai.xiaomi.com^
 ||tracker.anime47.com^
+||tracker.arc.io^
 ||tracker.edupia.vn^
 ||tracker.fado.vn^
 ||tracker.icerocket.com^
@@ -8446,6 +8467,7 @@
 ||ttgmjfgldgv9ed10.com^
 ||ttrk.io^
 ||ttus.tructiepbongda.me^
+||tu.bawrelcuttail.com^
 ||tubeadvertising.eu^
 ||tubecorp.com^
 ||tubecup.net^
@@ -8536,6 +8558,7 @@
 ||umengcloud.com^
 ||umengjmacs.m.taobao.com^
 ||umexalim.com^
+||umlazada.alibaba.com^
 ||unanimis.co.uk^
 ||unarmedindustry.com^
 ||unarmedlickpattern.com^
@@ -8588,6 +8611,7 @@
 ||urimnugocfr.com^
 ||urlcash.net^
 ||urlhausa.com^
+||urrfkabrkhxjat.com^
 ||us-east-1.prod.pr.analytics.console.aws.a2z.com^
 ||us-east-1.prod.pw.analytics.console.aws.a2z.com^
 ||us-east-2.prod.pr.analytics.console.aws.a2z.com^
@@ -9216,6 +9240,7 @@
 ||zeusclicks.com^
 ||zeustechnology.com^
 ||zh-log.vietnamplus.vn^
+||zhangyuyidong.cn^
 ||zhoyyibwywgev.one^
 ||ziffdavis.com^
 ||zigzag.vn^
