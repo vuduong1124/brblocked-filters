@@ -1,8 +1,8 @@
 ! Title: Peter Lowe
 ! Source: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 ! License: https://pgl.yoyo.org/adservers/policy.php
-! Converted: 2026-10-23 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 3548
+! Converted: 2026-10-27 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 3551
 ! Cosmetic: 0
 ||101com.com^
 ||180hits.de^
@@ -38,6 +38,7 @@
 ||7cnq.net^
 ||82o9v830.com^
 ||a-ads.com^
+||a.bestcontentfood.top^
 ||a.mktw.net^
 ||a.sakh.com^
 ||a.ucoz.net^
@@ -2096,6 +2097,7 @@
 ||liveintent.com^
 ||livelylaugh.com^
 ||liverail.com^
+||livetrafficfeed.com^
 ||livingsleet.com^
 ||lizardslaugh.com^
 ||lkqd.com^
@@ -3023,6 +3025,7 @@
 ||stats.rdphv.net^
 ||stats.self.com^
 ||stats.stb-ottow.de^
+||stats.topofblogs.com^
 ||stats.townnews.com^
 ||stats.wordpress.com^
 ||stats.wp.com^
