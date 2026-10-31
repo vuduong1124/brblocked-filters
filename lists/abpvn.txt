@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-10-30 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-10-31 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 70
-! Cosmetic: 815
+! Cosmetic: 813
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -60,7 +60,7 @@
 ||pub.akadigital.vn^
 ||pub.lavamedia.vn^
 ||pub.lavanetwork.net^
-||q3ei4f.rophim10.cam^
+||q3ei4f.rophim10.sbs^
 ||qc.coccoc.com^
 ||qc.violet.vn^
 ||realclick.vn^
@@ -88,8 +88,6 @@
 24h.com.vn##[id^="ADS_"]
 2banh.vn###position_full_top_banner_pc
 2game.vn##.gc-header__wrapper + div[style]
-3ftextile.com###popup-ad-box
-3ftextile.com##.banner-ad
 abysscdn.com###player + div[id]
 abysscdn.com##.jw-logo
 abysscdn.com##.playover
@@ -185,8 +183,6 @@ chatboxn.com##a[target="_blank"][rel="nofollow"]
 checkscam.vn##.qh_qcbp
 chodansinh.net##.link-gold
 chodansinh.net##[id^="banner"]
-chophim.app##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0.fixed
-chophim.app##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-0.fixed
 chophim.fun##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0.fixed
 chophim.fun##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-0.fixed
 chophimviet.top###scriptDiv:has(.adsbygoogle)
@@ -204,13 +200,13 @@ clipphot.co##.mini-player
 coinphoton.com##.header-fix-ads
 coinphoton.com##.lepopup-popup-container
 coinphoton.com##.lepopup-popup-overlay
-coiphim.mobi##.ad-floater
-coiphim.mobi##.ads
-coiphim.mobi##.banner
-coiphim.mobi##.popunder-link
-coiphim.mobi##.promotion-popup
-coiphim.mobi##.video-ad-layer
-coiphim.mobi##li.special.parent
+coiphim.sbs##.ad-floater
+coiphim.sbs##.ads
+coiphim.sbs##.banner
+coiphim.sbs##.popunder-link
+coiphim.sbs##.promotion-popup
+coiphim.sbs##.video-ad-layer
+coiphim.sbs##li.special.parent
 colatv45.live###catfish-ad
 colatv45.live##.blv-follow-btn
 colatv45.live##.btn-primary.btn
@@ -309,13 +305,13 @@ giadinhonline.vn##.adv
 giadinhonline.vn##.exp_qc_share
 giavang.org##.sponsor-img
 giavang.org##.tradingview-widget-copyright
-giovang.uno##.balloon-wrapper
-giovang.uno##.banner_popup
-giovang.uno##.banners-bottom
-giovang.uno##.bc-hidden-link.seo4s-resolve-link
-giovang.uno##.box-odds-match
-giovang.uno##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
-giovang.uno##.nav-top-nha-cai
+giovang.love##.balloon-wrapper
+giovang.love##.banner_popup
+giovang.love##.banners-bottom
+giovang.love##.bc-hidden-link.seo4s-resolve-link
+giovang.love##.box-odds-match
+giovang.love##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
+giovang.love##.nav-top-nha-cai
 gockhuat.net###ad_global_below_navbar
 gocmod.com###bannerContainer1
 gocmod.com###bannerContainer2
@@ -377,8 +373,8 @@ idpvn.com##[id^="idpvn-"]
 ipatool.codevn.net##.ad-left
 ipatool.codevn.net##.ad-right
 javgiga.wordpress.com##.pum-overlay
+javhdhay.org##.xx-ads
 javhdz.life##.catfish-bottom
-javqd.me##.xx-ads
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
 javtopxx2.com###fbox-background
 javtopxx2.com##.logo-player
@@ -539,9 +535,9 @@ plcdn.xyz##.odds-button2
 qdnd.vn##.box-banner
 qmanga.art##.gwd-banner-image
 qmh.garden###catfish-ad-banner
-qmhv3.live##.global-sticky-ads
-qmhv3.live##.header>app-banner
-qmhv3.live##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+qmhv3.xyz##.global-sticky-ads
+qmhv3.xyz##.header>app-banner
+qmhv3.xyz##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
 quantrimang.com###adrighttop
 quantrimang.com###adsposttop
 quantrimang.com##.adbox
@@ -552,16 +548,16 @@ quatvn.si##.popup-banner
 quatvn.si##.popup-overlay
 quatvn.si##.preroll-content
 quatvn.si##body>div[style^="position: fixed;"]
-rakhoizar.cc###wap_bottombanner
-rakhoizar.cc##.bookmaker-selector-container
-rakhoizar.cc##.btn-8xbet
-rakhoizar.cc##.btn-odds
-rakhoizar.cc##.footer-banner
-rakhoizar.cc##.sk_balloon
+rakhoizag.cc###wap_bottombanner
+rakhoizag.cc##.bookmaker-selector-container
+rakhoizag.cc##.btn-8xbet
+rakhoizag.cc##.btn-odds
+rakhoizag.cc##.footer-banner
+rakhoizag.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim1.vip##.sspp-area
-rophim10.cam##.adserver
-rophim10.cam##.mt-3.topics-line.topics-grid.topics-list
+rophim10.sbs##.adserver
+rophim10.sbs##.mt-3.topics-line.topics-grid.topics-list
 rophimz.li##.sspp-area
 rophimz.top##.float-ck-center-lt
 rphang.fish###aboveFirstPost
@@ -639,6 +635,8 @@ thapcam73.live##.mmo
 thapcam73.live##.mzdal
 thapcam73.live##a[rel="nofollow"]
 the.tube##.ads-container
+theaesthe.com###popup-ad-box
+theaesthe.com##.banner-ad
 thefaplive.com###backgroundPopupp
 thefaplive.com###ds_top
 thefaplive.com###popupContact
