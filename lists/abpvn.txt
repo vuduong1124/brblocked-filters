@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-04 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-05 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 71
 ! Cosmetic: 811
 ||ad.vidverto.io^
@@ -114,12 +114,12 @@ animesub.site##.sticky_bottom
 animetvn.gay###fbox-background
 animetvn.gay###mobile-ads
 animetvn.gay##.gnarty-offads
-animevietsub.news###_preload-ads-1
-animevietsub.news###invideo_wrapper
-animevietsub.news##.Ads
-animevietsub.news##.mobile-catfish-top
-animevietsub.news##.mobile-catfixx
-animevietsub.news##.pc-catfixx
+animevietsub.best###_preload-ads-1
+animevietsub.best###invideo_wrapper
+animevietsub.best##.Ads
+animevietsub.best##.mobile-catfish-top
+animevietsub.best##.mobile-catfixx
+animevietsub.best##.pc-catfixx
 antt.vn##.ads
 api.anime3s.com##.t_logo
 audiotruyenfull.com##.code-block-24.code-block
@@ -372,7 +372,7 @@ idpvn.com##[id^="idpvn-"]
 ipatool.codevn.net##.ad-left
 ipatool.codevn.net##.ad-right
 javgiga.wordpress.com##.pum-overlay
-javhdz.life##.catfish-bottom
+javhdz.page##.catfish-bottom
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
 javtopxx2.com###fbox-background
 javtopxx2.com##.logo-player
@@ -530,8 +530,6 @@ player-cdn.com##.jw-logo
 player-cdn.com##.playover
 plcdn.xyz##.odds-button
 plcdn.xyz##.odds-button2
-profesor-p.com###popup-ad-box
-profesor-p.com##.banner-ad
 qdnd.vn##.box-banner
 qmanga.art##.gwd-banner-image
 qmh.garden###catfish-ad-banner
@@ -569,6 +567,8 @@ rphang.shop##div.samCodeUnit[data-position="footer_fixed"]
 rphang.shop##div.samItem:has(video.topmobileads)
 sachmoi.net##.boxzilla-bottom-right-container
 sachmoi.net##[href^="https://gotrackecom.info"]
+sahrami.com###popup-ad-box
+sahrami.com##.banner-ad
 saostar.vn###mobi-top
 saostar.vn##.ads
 saostar.vn##.pc-bill
@@ -816,15 +816,15 @@ vtcnews.vn##.sys-ads
 vuonhoalan.net##.content_middle_rightbar
 webhoctienganh.com##.button-action-float-banner
 wikidichvn.com###flyer
-ww1.8phim.cc##.BanerTop100
-ww1.8phim.cc##.adv-300-right
-ww1.8phim.cc##.banner-container
-ww1.8phim.cc##.banner-preload
-ww1.8phim.cc##.banner-preload-container
-ww1.8phim.cc##.catfish-bottom
-ww1.8phim.cc##.catfish-top
-ww1.8phim.cc##a[rel="nofollow"]
-ww1.8phim.cc##div[class^="catfish-"]
+ww2.8phimx.com##.BanerTop100
+ww2.8phimx.com##.adv-300-right
+ww2.8phimx.com##.banner-container
+ww2.8phimx.com##.banner-preload
+ww2.8phimx.com##.banner-preload-container
+ww2.8phimx.com##.catfish-bottom
+ww2.8phimx.com##.catfish-top
+ww2.8phimx.com##a[rel="nofollow"]
+ww2.8phimx.com##div[class^="catfish-"]
 www.2banh.vn##.grp-grp.header_wp
 www.2banh.vn##.lb_overlay
 www.7mvn9.com###bottomFixedDiv
@@ -849,7 +849,7 @@ www.saostar.vn###mobi-sapo
 www.saostar.vn###page-skin-top-holder
 www.saostar.vn###pc-bill-top
 www.saostar.vn###pc-bill-top-1
-www.sieutamphim.top###scriptDiv
+www.sieutamphim.fun###scriptDiv
 www.toptruyenzone14.com##.advertisement
 x.chinav.sex###cashfit-banner-host
 x.chinav.sex##.adbox
