@@ -1,0 +1,3 @@
+! Mức chặn chuyển trang mặc định theo site (người dùng đổi được trong bảng khiên).
+! nettruyen.gg đã là $strict nên mặc định mức Cao.
+$protect-high=yanhh3d.ee

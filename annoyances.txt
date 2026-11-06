@@ -1,0 +1,32 @@
+! MD Browser – phiền toái: dịch vụ mời "đăng ký nhận thông báo" của trang web (push notification)
+! Chặn script của các dịch vụ này thì trang không hiện hộp mời bật thông báo.
+
+! OneSignal
+||onesignal.com^
+||os.tc^
+! iZooto
+||izooto.com^
+! PushEngage
+||pushengage.com^
+! Webpushr
+||webpushr.com^
+! Gravitec
+||gravitec.net^
+! Pushwoosh
+||pushwoosh.com^
+! Truepush
+||truepush.com^
+! Aimtell
+||aimtell.com^
+! PushOwl
+||pushowl.com^
+! Pushnami
+||pushnami.com^
+! Notix
+||notix.io^
+! Subscribers.com
+||subscribers.com^
+! SendPulse (chỉ phần thông báo đẩy)
+||sendpulse.com/js/push^
+! Wonderpush
+||wonderpush.com^

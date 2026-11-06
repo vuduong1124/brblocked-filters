@@ -1,10 +1,10 @@
 ! BRBlocked – rule riêng cho nettruyen.gg (khảo sát 29/09/2026)
 
-! --- Allowlist tài nguyên bắt buộc (ưu tiên cao nhất) ---
+! --- Allowlist tài nguyên bắt buộc (ưu tiên cao nhất), chỉ trên site này ---
 ! Ảnh truyện. Server trả 403 nếu thiếu Referer nettruyen.gg.
-@@||kcgsbok.com^
+@@||kcgsbok.com^$domain=nettruyen.gg
 ! Emoji picker trong phần bình luận.
-@@||cdn.jsdelivr.net^
+@@||cdn.jsdelivr.net^$domain=nettruyen.gg
 $nav-allow=nettruyen.gg
 
 ! --- Chặn mọi tài nguyên third-party ngoài allowlist ---
