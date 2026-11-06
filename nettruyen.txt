@@ -1,16 +1,17 @@
-! BRBlocked – rule riêng cho nettruyen.gg (khảo sát 29/09/2026)
+! BRBlocked – rule riêng cho nettruyen (khảo sát 29/09/2026 trên tên miền cũ nettruyen.gg; site chuyển sang hinettruyen.com,
+! cấu trúc trang và tài nguyên không đổi, kiểm lại 06/11/2026). Tên miền cũ chỉ còn chuyển hướng sang tên miền mới.
 
 ! --- Allowlist tài nguyên bắt buộc (ưu tiên cao nhất), chỉ trên site này ---
-! Ảnh truyện. Server trả 403 nếu thiếu Referer nettruyen.gg.
-@@||kcgsbok.com^$domain=nettruyen.gg
+! Ảnh truyện. Server trả 403 nếu thiếu Referer.
+@@||kcgsbok.com^$domain=hinettruyen.com
 ! Emoji picker trong phần bình luận.
-@@||cdn.jsdelivr.net^$domain=nettruyen.gg
-$nav-allow=nettruyen.gg
+@@||cdn.jsdelivr.net^$domain=hinettruyen.com
+$nav-allow=hinettruyen.com
 
 ! --- Chặn mọi tài nguyên third-party ngoài allowlist ---
 ! Bắt được cả mạng quảng cáo mới chưa có trong common.txt,
 ! và fetch cloudflare.com/cdn-cgi/trace mà script quảng cáo dùng để chọn popup theo quốc gia.
-$strict=nettruyen.gg
+$strict=hinettruyen.com
 
 ! --- Script quảng cáo first-party ---
 ! KHÔNG chặn /assets/js/ads/chipntgg.js: file này còn định nghĩa getCookie/setCookie
@@ -18,13 +19,15 @@ $strict=nettruyen.gg
 ! yougetwhatyoupayfor.net, đã chặn trong common.txt.
 
 ! --- Cosmetic: banner cá độ nhúng trong HTML ---
-nettruyen.gg##.banners
-nettruyen.gg##.ads-banner
+hinettruyen.com##.banners
+hinettruyen.com##.ads-banner
 ! Khung quảng cáo trang chương, nhãn "Quảng cáo" vẽ bằng CSS var --ads-text-sps.
-nettruyen.gg##.banner-container
-nettruyen.gg##.show-sps
-nettruyen.gg##.wap_bottombanner
-nettruyen.gg###floating
-nettruyen.gg##.banner
-nettruyen.gg##[id^="dl-banner"]
-nettruyen.gg##iframe:not([src*="youtube.com"])
+hinettruyen.com##.banner-container
+hinettruyen.com##.show-sps
+hinettruyen.com##.wap_bottombanner
+hinettruyen.com###floating
+hinettruyen.com##.banner
+hinettruyen.com##[id^="dl-banner"]
+hinettruyen.com##iframe:not([src*="youtube.com"])
+! Chân trang: hàng trăm link cá độ (không có link nào của site).
+hinettruyen.com##.link-footer
