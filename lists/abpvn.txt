@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-05 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-06 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 71
-! Cosmetic: 811
+! Cosmetic: 810
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -225,8 +225,8 @@ congthucvatly.com##.fixed
 congthucvatly.com##.mb-4>[style="min-height: 350px;"]
 contuhoc.com##a[rel="noopener noreferrer"]
 cryptoviet.com##.widget-wrap.widget_text
-damconuong.icu##.catfish-ad
-damconuong.icu##a[rel="nofollow"]
+damconuong.cool##.catfish-ad
+damconuong.cool##a[rel="nofollow"]
 dantri.com.vn###bannerMasthead
 dantri.com.vn###desktop-home-top-page
 dantri.com.vn###mobile-home-middle-1
@@ -255,6 +255,8 @@ dubaotiente.net##.ad-pin-right-bottom
 dubaotiente.net##.adv
 dynadot.rsocdomains.com###video_player ~ div[id]
 dynadot.rsocdomains.com##.float-ck-center-lt
+eastpacificsi.com###popup-ad-box
+eastpacificsi.com##.banner-ad
 ebookbkmt.com##.top-right
 ephoto360.com##.ad-container
 ephoto360.com##.line-ads
@@ -321,11 +323,11 @@ gocmod.com##center:has(.adsbygoogle)
 gocmod.com##div[style^="position: fixed"]
 googleapiscdn.com###avs-banner-overlay
 googleapiscdn.com###avs-pause-ad
-hangngon.tv##.xx-ads
 haysexvn.shop###vl-header-adx
 haysexvn.shop##.castfish-wrappe
 haysexvn.shop##.popup
 hentaibox.top##[id$="bnr"]
+heoxinh.tv##.xx-ads
 hh2d.top###catfish
 hh3dhay.ceo###footer_fixed_ads
 hh3dhay.ceo###overlay
@@ -456,7 +458,7 @@ motchilln.biz##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0
 motchilltvphim.com###popup_banner_beta
 motchilltvphim.com##.sda-catfish
 motchillxe.cc##.overlay-1
-motphimc.tv##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+motphimc.com.mx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motphimchilll.life###catfish_ad_top
 nettruyen15s.com##.ad_info
 nettruyen15s.com##.ads_insert_shop
@@ -546,29 +548,27 @@ quatvn.si##.popup-banner
 quatvn.si##.popup-overlay
 quatvn.si##.preroll-content
 quatvn.si##body>div[style^="position: fixed;"]
-rakhoizag.cc###wap_bottombanner
-rakhoizag.cc##.bookmaker-selector-container
-rakhoizag.cc##.btn-8xbet
-rakhoizag.cc##.btn-odds
-rakhoizag.cc##.footer-banner
-rakhoizag.cc##.sk_balloon
+rakhoizau.cc###wap_bottombanner
+rakhoizau.cc##.bookmaker-selector-container
+rakhoizau.cc##.btn-8xbet
+rakhoizau.cc##.btn-odds
+rakhoizau.cc##.footer-banner
+rakhoizau.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim1.co##.sspp-area
 rophim10.sbs##.adserver
 rophim10.sbs##.mt-3.topics-line.topics-grid.topics-list
-rophimz.li##.sspp-area
+rophimz.so##.sspp-area
 rophimz.top##.float-ck-center-lt
-rphang.shop###aboveFirstPost
-rphang.shop##.bbMediaWrapper-inner>.samCodeUnit
-rphang.shop##.js-replyNewMessageContainer.block-body>div.samCodeUnit>.samItem
-rphang.shop##.p-footer
-rphang.shop##.samVideoOverlay
-rphang.shop##div.samCodeUnit[data-position="footer_fixed"]
-rphang.shop##div.samItem:has(video.topmobileads)
+rphang.show###aboveFirstPost
+rphang.show##.bbMediaWrapper-inner>.samCodeUnit
+rphang.show##.js-replyNewMessageContainer.block-body>div.samCodeUnit>.samItem
+rphang.show##.p-footer
+rphang.show##.samVideoOverlay
+rphang.show##div.samCodeUnit[data-position="footer_fixed"]
+rphang.show##div.samItem:has(video.topmobileads)
 sachmoi.net##.boxzilla-bottom-right-container
 sachmoi.net##[href^="https://gotrackecom.info"]
-sahrami.com###popup-ad-box
-sahrami.com##.banner-ad
 saostar.vn###mobi-top
 saostar.vn##.ads
 saostar.vn##.pc-bill
@@ -581,7 +581,6 @@ sextop.asia###video_player ~ div[id]
 sextop.asia##div[style^="position:fixed;inset:0px;z-index:100000;"]
 sexviet69.cc##.float-ck-center-lt
 soha.vn##[id^="admzone"]
-soicau247s.org##.linkBanner
 sport5.vn##.afw-topbanner
 ss.90phut27.com###m-bet
 ss.90phut27.com##.btn-bet-top
