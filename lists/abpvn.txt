@@ -122,6 +122,9 @@ animevietsub.best##.mobile-catfixx
 animevietsub.best##.pc-catfixx
 antt.vn##.ads
 api.anime3s.com##.t_logo
+asexhihi.net##.catfish-bottom
+asexhihi.net##.catfish-top
+asexhihi.net##.xx-ads
 audiotruyenfull.com##.code-block-24.code-block
 autodaily.vn###banner3double
 autopro.com.vn##.admicro
@@ -198,6 +201,7 @@ cliphot69.golf##.float-ck-center-lt
 cliphotvn69.com##.float-ck-center-lt
 clipphot.co##.cashfish
 clipphot.co##.mini-player
+clipsexhay.net##.xx-ads
 coinphoton.com##.header-fix-ads
 coinphoton.com##.lepopup-popup-container
 coinphoton.com##.lepopup-popup-overlay
@@ -507,7 +511,6 @@ phimchill.life##.ad-container
 phimchill.life##.popUpBannerBox
 phimdacap.tv###ads-popup
 phimdacap.tv###catfish
-phimdem.pro##.xx-ads
 phimhdc.com##.mp-adz
 phimhdcss.com##.mp-adz
 phimmoic.fit##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
@@ -776,9 +779,6 @@ vietnammedia.vnanet.vn##[href*="bit.ly"]
 vietnamnet.vn##.vmcadszone
 vietq.vn##section.mar20:nth-of-type(2)
 vietq.vn##section.mar20:nth-of-type(4)
-vlsexhihi.one##.catfish-bottom
-vlsexhihi.one##.catfish-top
-vlsexhihi.one##.xx-ads
 vlxx.rip###f186fb23a33995d91ce3c2212189178c8
 vlxx.rip##.hd-tube-desktop
 vlxx.rip##.hd-tube-mobile
