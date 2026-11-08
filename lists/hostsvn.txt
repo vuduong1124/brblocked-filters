@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ! License: MIT, https://github.com/bigdargon/hostsVN
-! Converted: 2026-10-24 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 9282
+! Converted: 2026-11-08 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 9324
 ! Cosmetic: 0
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -158,6 +158,7 @@
 ||ab1n.net^
 ||abacho.net^
 ||abc-ads.com^
+||abc3-log.tv360.vn^
 ||ablelaunchshorts.com^
 ||abmkupxixavk.in^
 ||aboardlevel.com^
@@ -785,6 +786,7 @@
 ||ads.fotosidan.se^
 ||ads.fpt.vn^
 ||ads.fptplay.net.vn^
+||ads.funmora.com^
 ||ads.gamespyid.com^
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
@@ -1384,6 +1386,7 @@
 ||adx-in.ads.heytapmobi.com^
 ||adx-open-service.youku.com^
 ||adx-sg.ads.heytapmobi.com^
+||adx-track.bluexad.ai^
 ||adx.aarki.net^
 ||adx.ads.heytapmobi.com^
 ||adx.baolongan.vn^
@@ -1720,10 +1723,13 @@
 ||analytics.bitrix.info^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
+||analytics.brave.com^
 ||analytics.cdn.live^
+||analytics.cherry-ai.com^
 ||analytics.clickdimensions.com^
 ||analytics.cloud.unity3d.com^
 ||analytics.cloudron.io^
+||analytics.consolewebgear.fr^
 ||analytics.convertlanguage.com^
 ||analytics.data.visenze.com^
 ||analytics.digi8.vn^
@@ -1743,8 +1749,10 @@
 ||analytics.govinfo.gov^
 ||analytics.headerbiddr.net^
 ||analytics.hebela.vn^
+||analytics.hemeratech.vn^
 ||analytics.htmedia.in^
 ||analytics.hub-js.com^
+||analytics.hvn.works^
 ||analytics.icons8.com^
 ||analytics.jamstackvietnam.com^
 ||analytics.jumboprivacy.com^
@@ -2399,6 +2407,7 @@
 ||bicolourprepossessstrong.com^
 ||bid.atmtd.com^
 ||bid.glass^
+||bid.novvy.ai^
 ||bid.ssp.bance.jp^
 ||bidadx.com^
 ||bidclickmedia.com^
@@ -2586,6 +2595,7 @@
 ||brznetwork.com^
 ||bs-adserver.b-cdn.net^
 ||bs.yandex.ru^
+||bspyoibtwrrc.com^
 ||bt.teparytympan.qpon^
 ||btbeacdhrdt.com^
 ||btguqecoelukltw.com^
@@ -2985,6 +2995,8 @@
 ||clickz.com^
 ||clicmanager.fr^
 ||client-analytics.braintreegateway.com^
+||client-logs.gaijin.net^
+||client-stats.gaijin.net^
 ||clientinfo.phimmoizz.net^
 ||clientlogger.marketplace.aws.a2z.com^
 ||clientmetrics-pa.googleapis.com^
@@ -3056,6 +3068,7 @@
 ||collect.camera360.com^
 ||collect.data.tm-awx.com^
 ||collect.igodigital.com^
+||collect.netshort.net^
 ||collect.ovp.vn^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
@@ -3080,6 +3093,8 @@
 ||collector-pxrf8vapwa.px-cloud.net^
 ||collector-pxrf8vapwa.pxchk.net^
 ||collector-pxu4k0s8nx.px-cloud.net^
+||collector.bsg.brave.com^
+||collector.bsg.bravesoftware.com^
 ||collector.github.com^
 ||collector.githubapp.com^
 ||collector.leaddyno.com^
@@ -3192,6 +3207,7 @@
 ||countercentral.com^
 ||counting.kmindex.ru^
 ||coupling-media.de^
+||coverdistilltile.com^
 ||coveredbetting.com^
 ||coxiesthubble.com^
 ||cpaconvtrk.net^
@@ -3490,6 +3506,7 @@
 ||detailedkitten.com^
 ||detectdiscovery.com^
 ||detoxifylagoonsnugness.com^
+||dev-adtima-static.zdn.vn^
 ||dev.visualwebsiteoptimizer.com^
 ||dev2pub.com^
 ||devaluequalmrelative.com^
@@ -4066,6 +4083,7 @@
 ||fra-02.braze.eu^
 ||fractionfridgejudiciary.com^
 ||framestighterauthorize.com^
+||fraud.adjoe.zone^
 ||freckledoutsiderundaunted.com^
 ||free.srcdn.xyz^
 ||freebanner.com^
@@ -5221,6 +5239,8 @@
 ||log.beecost.com^
 ||log.beecost.vn^
 ||log.btopenworld.com^
+||log.cand.vn^
+||log.congluan.vn^
 ||log.cookieyes.com^
 ||log.daibieunhandan.vn^
 ||log.daidoanket.vn^
@@ -5261,6 +5281,7 @@
 ||log.pinterest.com^
 ||log.plo.vn^
 ||log.quora.com^
+||log.rada.vn^
 ||log.saigondautu.com.vn^
 ||log.sdk.zadn.vn^
 ||log.sggp.org.vn^
@@ -5338,9 +5359,11 @@
 ||logs.datadoghq.com^
 ||logs.datadoghq.eu^
 ||logs.docnhanh.com.vn^
+||logs.dohaxe.com^
 ||logs.hotstar.com^
 ||logs.insight.rapid7.com^
 ||logs.ironsrc.mobi^
+||logs.mosevura.com^
 ||logs.netflix.com^
 ||logs.roku.com^
 ||logs.sanchoikns.vn^
@@ -5395,6 +5418,7 @@
 ||lwxoothcoq.com^
 ||lyssapebble.com^
 ||lytics.io^
+||lziawdwi.in^
 ||lzjl.com^
 ||lzoazzruvkze.com^
 ||m-adash.m.taobao.com^
@@ -5655,6 +5679,7 @@
 ||metrics.icloud.com^
 ||metrics.imdb.a2z.com^
 ||metrics.kmsmep.com^
+||metrics.meta.vn^
 ||metrics.mzstatic.com^
 ||metrics.roblox.com^
 ||metrics.walmart.com^
@@ -5824,6 +5849,7 @@
 ||mplaylist-ads.zascdn.me^
 ||mpstat.us^
 ||mpx.mopub.com^
+||mq.unthrobkeelfat.cfd^
 ||mr-rank.de^
 ||mrskincash.com^
 ||mrycibqutoz.com^
@@ -6041,6 +6067,7 @@
 ||nr-data.net^
 ||nresystems.com^
 ||nrich.ai^
+||nrnanbwkwd.com^
 ||nrs6ffl9w.com^
 ||ns-cdn.neustar.biz^
 ||ns1p.net^
@@ -6097,6 +6124,7 @@
 ||obscenesidewalk.com^
 ||obsessfalse.com^
 ||obsoletepaddlevehicular.com^
+||obzdiqozp.in^
 ||oca.telemetry.microsoft.com^
 ||occi.opencoccoc.com^
 ||oceanicdreamcove.com^
@@ -6331,7 +6359,7 @@
 ||panclndhgcpktf.com^
 ||pangle-b.io^
 ||pangle.io^
-||pangle.pangleglobal.com^
+||pangleglobal.com^
 ||pangolin-dsp-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
@@ -6423,6 +6451,7 @@
 ||performancing.com^
 ||perigshfnon.com^
 ||perimeterx.net^
+||periodpennavigation.com^
 ||permutive.app^
 ||permutive.com^
 ||perr.h-cdn.com^
@@ -6663,6 +6692,7 @@
 ||proadscdn.com^
 ||proceduresto3.net^
 ||prod-collecticon.outlookmobile.com^
+||prod.adjoe.zone^
 ||prod.cm.publishers.advertising.a2z.com^
 ||prod.otel.kaizen.nvidia.com^
 ||prod.tahoe-analytics.publishers.advertising.a2z.com^
@@ -6752,6 +6782,7 @@
 ||pub.hardware.fr^
 ||pub.network^
 ||pub.realmedia.fr^
+||pub.skyads.com.vn^
 ||pub.trads.io^
 ||pubads-wiinvent.tv360.vn^
 ||pubads.g.doubleclick.uk.net^
@@ -7041,6 +7072,7 @@
 ||remox.com^
 ||renamereptiliantrance.com^
 ||renderstreamshuttleanalytics.net^
+||rendingdecreasehere.com^
 ||repeatsweater.com^
 ||reporo.net^
 ||report.apkpure.net^
@@ -7729,6 +7761,8 @@
 ||static.accesstrade.vn^
 ||static.adconnect.vn^
 ||static.addtoany.com^
+||static.ads.brave.com^
+||static.ads.bravesoftware.com^
 ||static.appcloudbox.net^
 ||static.aprod.scopely.io^
 ||static.fmpub.net^
@@ -7765,6 +7799,9 @@
 ||stats.betradar.com^
 ||stats.bizweb.vn^
 ||stats.blogger.com^
+||stats.brave.com^
+||stats.bravesoftware.com^
+||stats.bsg.bravesoftware.com^
 ||stats.ccleanerbrowser.com^
 ||stats.dev.zaloapp.com^
 ||stats.dongphim.net^
@@ -8346,6 +8383,7 @@
 ||tracking.miui.com^
 ||tracking.monsido.com^
 ||tracking.musixmatch.com^
+||tracking.novvy.ai^
 ||tracking.overwolf.com^
 ||tracking.playzing.g6.zing.vn^
 ||tracking.prd.mz.internal.unity3d.com^
@@ -8360,6 +8398,7 @@
 ||tracking.vegaid.vn^
 ||tracking.vietbao.vn^
 ||tracking.viez.vn^
+||tracking.vneconomy.vn^
 ||tracking.vnncdn.net^
 ||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
@@ -8531,6 +8570,7 @@
 ||udmserve.net^
 ||udzpel.com^
 ||ueikno.com^
+||ueuee.com^
 ||ufaexpert.com^
 ||ufpcdn.com^
 ||ugdturner.com^
@@ -8661,6 +8701,7 @@
 ||v6rxv5coo5.com^
 ||v9banners-com.cdn.ampproject.org^
 ||v9banners.com^
+||vabpfbbtzs.com^
 ||vacationmonday.com^
 ||vads.net.vn^
 ||vads.vn^
@@ -9122,6 +9163,7 @@
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
 ||yandexadexchange.net^
+||yb.hoodoescopses.com^
 ||yb26b.com^
 ||ybrantdigital.com^
 ||ybs2ffs7v.com^
