@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-10 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-11 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 71
-! Cosmetic: 813
+! Cosmetic: 812
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -146,8 +146,6 @@ baoquangninh.vn##.bottom-right-ads
 baoxaydung.vn##.banner
 bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
-bistrobaronde.com###popup-ad-box
-bistrobaronde.com##.banner-ad
 blog.abit.vn##.button-dangkyngay
 blog.abit.vn##[class*="_banner"]
 boctem.org###popup-giua-man-hinh
@@ -522,7 +520,6 @@ phimmoihd.store##.p-4.bg-black\/70.overflow-y-auto.justify-center.items-center.f
 phimmoihd.store##.pt-3.pb-1.px-2.z-\[60\].bottom-0.inset-x-0.fixed
 phimsexhayvne.com##.float-ck-center-lt
 phimsexsuong3x.net##.catfish-bottom
-phimtho.cc###popup_banner_beta
 phimtuoitho.tv##.pc-catfixx
 phunumoi.net.vn##div[id^="ads_"]
 phuongtrinhhoahoc.com##.fixed
@@ -727,6 +724,8 @@ tv.manhvl.com##.col-lg-4.hidden-xs.d-flex.flex-column.address-wrap
 tv.manhvl.com##.float-right
 tv.manhvl.com##a[rel="nofollow"]
 tvso1.com##[class*="_banner"]
+uicorthopedics.com###popup-ad-box
+uicorthopedics.com##.banner-ad
 universalwindscreens.co.uk##.banner-fixed
 v4u.vn##.Flagrow-Ads-under-header
 vailonxx.me###ab_ctl
