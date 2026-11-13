@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-12 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-13 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 71
 ! Cosmetic: 814
 ||ad.vidverto.io^
@@ -328,7 +328,6 @@ haysexvn.shop###vl-header-adx
 haysexvn.shop##.castfish-wrappe
 haysexvn.shop##.popup
 hentaibox.top##[id$="bnr"]
-heo69.tube##.xx-ads
 hh2d.top###catfish
 hh3dhay.ceo###footer_fixed_ads
 hh3dhay.ceo###overlay
@@ -381,6 +380,8 @@ javtopxx2.com###fbox-background
 javtopxx2.com##.logo-player
 javtopxx2.com##.sticky_bottom
 jophim.top##.float-ck-center-lt
+kafessan.com###popup-ad-box
+kafessan.com##.banner-ad
 kenh14.vn##.ads-sponsor
 kenh14.vn##.khw-adk14-wrapper
 keoso.me##.banner_list
@@ -399,6 +400,7 @@ kienthuc.net.vn##.ads
 kienthuc.net.vn##.sponsor-zone
 kinhtedothi.vn##.top-banner-mobile
 kinhtedothi.vn##[id^="adv"]
+kphimsex.com##.xx-ads
 laalmirchitakeaway.co.uk##.banner-preload
 laalmirchitakeaway.co.uk##.catfish-bottom
 laalmirchitakeaway.co.uk##.catfish-top
@@ -455,11 +457,11 @@ monkeyd.net.vn###affLayer
 monkeyd.net.vn##.justify-content-center.d-flex.mx-3.mx-lg-4.mt-3>[href]
 monkeydtruyen.com###affLayer
 monkeydtruyen.com###affLayer2
-motchille.biz##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+motchille.com.mx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motchilltvphim.com###popup_banner_beta
 motchilltvphim.com##.sda-catfish
 motchillxe.cc##.overlay-1
-motphimc.cx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+motphimc.to##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motphimchilll.my###catfish_ad_top
 nettruyen15s.com##.ad_info
 nettruyen15s.com##.ads_insert_shop
@@ -575,8 +577,6 @@ saostar.vn###mobi-top
 saostar.vn##.ads
 saostar.vn##.pc-bill
 sayhentai.cx##.float-ck-center-lt
-scramblebdg.com###popup-ad-box
-scramblebdg.com##.banner-ad
 sexgaivl.net##.quangcaomobile
 sexmupxinh.net##.catfish-top
 sexmupxinh.net##.catfix
