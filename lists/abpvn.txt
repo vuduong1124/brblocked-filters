@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-13 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-14 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 71
-! Cosmetic: 814
+! Cosmetic: 811
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -61,7 +61,7 @@
 ||pub.akadigital.vn^
 ||pub.lavamedia.vn^
 ||pub.lavanetwork.net^
-||q3ei4f.rophim10.life^
+||q3ei4f.rophim10.ink^
 ||qc.coccoc.com^
 ||qc.violet.vn^
 ||realclick.vn^
@@ -176,7 +176,6 @@ cafef.vn##.bannertop
 cafef.vn##.box-adm
 cafef.vn##[class^="ads_"]
 cap3.video###catfish-ad-banner
-cbox.ws##a[rel="noopener noreferrer"]
 chap.vn##.my_responsive_add
 chap.vn##.titleBar + *
 chap.vn##[class1="my_responsive_add"]
@@ -303,13 +302,13 @@ giadinhonline.vn##.adv
 giadinhonline.vn##.exp_qc_share
 giavang.org##.sponsor-img
 giavang.org##.tradingview-widget-copyright
-giovang.shop##.balloon-wrapper
-giovang.shop##.banner_popup
-giovang.shop##.banners-bottom
-giovang.shop##.bc-hidden-link.seo4s-resolve-link
-giovang.shop##.box-odds-match
-giovang.shop##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
-giovang.shop##.nav-top-nha-cai
+giovang.cam##.balloon-wrapper
+giovang.cam##.banner_popup
+giovang.cam##.banners-bottom
+giovang.cam##.bc-hidden-link.seo4s-resolve-link
+giovang.cam##.box-odds-match
+giovang.cam##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
+giovang.cam##.nav-top-nha-cai
 gockhuat.net###ad_global_below_navbar
 gocmod.com###bannerContainer1
 gocmod.com###bannerContainer2
@@ -380,8 +379,6 @@ javtopxx2.com###fbox-background
 javtopxx2.com##.logo-player
 javtopxx2.com##.sticky_bottom
 jophim.top##.float-ck-center-lt
-kafessan.com###popup-ad-box
-kafessan.com##.banner-ad
 kenh14.vn##.ads-sponsor
 kenh14.vn##.khw-adk14-wrapper
 keoso.me##.banner_list
@@ -400,7 +397,6 @@ kienthuc.net.vn##.ads
 kienthuc.net.vn##.sponsor-zone
 kinhtedothi.vn##.top-banner-mobile
 kinhtedothi.vn##[id^="adv"]
-kphimsex.com##.xx-ads
 laalmirchitakeaway.co.uk##.banner-preload
 laalmirchitakeaway.co.uk##.catfish-bottom
 laalmirchitakeaway.co.uk##.catfish-top
@@ -462,7 +458,7 @@ motchilltvphim.com###popup_banner_beta
 motchilltvphim.com##.sda-catfish
 motchillxe.cc##.overlay-1
 motphimc.to##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
-motphimchilll.my###catfish_ad_top
+motphimchilll.fit###catfish_ad_top
 nettruyen15s.com##.ad_info
 nettruyen15s.com##.ads_insert_shop
 nettruyenar.com##.banner
@@ -521,6 +517,7 @@ phimmoihd.store##.\32 xl\:right-2.sm\:right-1.right-0.-translate-y-1\/2.z-40.top
 phimmoihd.store##.p-4.bg-black\/70.overflow-y-auto.justify-center.items-center.flex.z-\[70\].inset-0.fixed
 phimmoihd.store##.pt-3.pb-1.px-2.z-\[60\].bottom-0.inset-x-0.fixed
 phimsexhayvne.com##.float-ck-center-lt
+phimsexlon.pro##.xx-ads
 phimsexsuong3x.net##.catfish-bottom
 phimtuoitho.tv##.pc-catfixx
 phunumoi.net.vn##div[id^="ads_"]
@@ -542,13 +539,10 @@ qmhv3.top##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z
 quantrimang.com###adrighttop
 quantrimang.com###adsposttop
 quantrimang.com##.adbox
-quatvn.best##.adace-slideup-slot-wrap
-quatvn.best##.adace-slot
-quatvn.best##.g1-advertisement
-quatvn.best##.popup-banner
-quatvn.best##.popup-overlay
-quatvn.best##.preroll-content
-quatvn.best##body>div[style^="position: fixed;"]
+quatvn.best###popupBanner
+quatvn.best###popupOverlay
+quatvn.best###stickyFooterAds
+quatvn.best###topBannerAds
 rakhoizbg.cc###wap_bottombanner
 rakhoizbg.cc##.bookmaker-selector-container
 rakhoizbg.cc##.btn-8xbet
@@ -557,9 +551,9 @@ rakhoizbg.cc##.footer-banner
 rakhoizbg.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim1.co##.sspp-area
-rophim10.life##.adserver
-rophim10.life##.mt-3.topics-line.topics-grid.topics-list
-rophimz.cx##.sspp-area
+rophim10.ink##.adserver
+rophim10.ink##.mt-3.topics-line.topics-grid.topics-list
+rophimz.com.mx##.sspp-area
 rophimz.top##.float-ck-center-lt
 rphang.show###aboveFirstPost
 rphang.show##.bbMediaWrapper-inner>.samCodeUnit
@@ -599,6 +593,8 @@ st.90phut27.com###m-bet
 st.90phut27.com##.modal-backdropz
 st.90phut27.com##div[class*="size-"]
 streamobs.net###AgeModal
+streetboxphl.com###popup-ad-box
+streetboxphl.com##.banner-ad
 subnhanh.plus###footer_fixed_ads
 subnhanh.plus###popup_banner_beta
 subnhanh.plus##.sda-catfish
@@ -854,6 +850,7 @@ www.saostar.vn###pc-bill-top
 www.saostar.vn###pc-bill-top-1
 www.sieutamphim.site###scriptDiv
 www.toptruyenzone14.com##.advertisement
+www.vnjpclub.com##.vnjp-ad-slot
 x.chinav.sex###cashfit-banner-host
 x.chinav.sex##.adbox
 x.chinav.sex##.banner-container
