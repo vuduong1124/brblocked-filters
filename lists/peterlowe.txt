@@ -2,7 +2,7 @@
 ! Source: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 ! License: https://pgl.yoyo.org/adservers/policy.php
 ! Converted: 2026-11-14 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 3547
+! Domains: 3549
 ! Cosmetic: 0
 ||101com.com^
 ||180hits.de^
@@ -68,6 +68,7 @@
 ||absorbingband.com^
 ||abstractedauthority.com^
 ||abtasty.com^
+||abu.usaday.biz^
 ||ac.rnm.ca^
 ||accountsdoor.com^
 ||acebunny.com^
@@ -1443,6 +1444,7 @@
 ||damdoor.com^
 ||dapper.net^
 ||darngavel.com^
+||dash.kryon.one^
 ||data.hailuo.ai^
 ||datapickles.com^
 ||datenow.link^
