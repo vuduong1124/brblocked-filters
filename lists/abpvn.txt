@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-14 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-15 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 71
 ! Cosmetic: 811
 ||ad.vidverto.io^
@@ -397,6 +397,8 @@ kienthuc.net.vn##.ads
 kienthuc.net.vn##.sponsor-zone
 kinhtedothi.vn##.top-banner-mobile
 kinhtedothi.vn##[id^="adv"]
+kuiseaction.com###popup-ad-box
+kuiseaction.com##.banner-ad
 laalmirchitakeaway.co.uk##.banner-preload
 laalmirchitakeaway.co.uk##.catfish-bottom
 laalmirchitakeaway.co.uk##.catfish-top
@@ -453,12 +455,12 @@ monkeyd.net.vn###affLayer
 monkeyd.net.vn##.justify-content-center.d-flex.mx-3.mx-lg-4.mt-3>[href]
 monkeydtruyen.com###affLayer
 monkeydtruyen.com###affLayer2
-motchille.com.mx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
+motchillc.ws##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motchilltvphim.com###popup_banner_beta
 motchilltvphim.com##.sda-catfish
 motchillxe.cc##.overlay-1
-motphimc.to##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motphimchilll.fit###catfish_ad_top
+motphimz.ws##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 nettruyen15s.com##.ad_info
 nettruyen15s.com##.ads_insert_shop
 nettruyenar.com##.banner
@@ -533,22 +535,22 @@ plcdn.xyz##.odds-button2
 qdnd.vn##.box-banner
 qmanga.art##.gwd-banner-image
 qmh.garden###catfish-ad-banner
-qmhv3.top##.global-sticky-ads
-qmhv3.top##.header>app-banner
-qmhv3.top##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+qmhv3.lol##.global-sticky-ads
+qmhv3.lol##.header>app-banner
+qmhv3.lol##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
 quantrimang.com###adrighttop
 quantrimang.com###adsposttop
 quantrimang.com##.adbox
-quatvn.best###popupBanner
-quatvn.best###popupOverlay
-quatvn.best###stickyFooterAds
-quatvn.best###topBannerAds
-rakhoizbg.cc###wap_bottombanner
-rakhoizbg.cc##.bookmaker-selector-container
-rakhoizbg.cc##.btn-8xbet
-rakhoizbg.cc##.btn-odds
-rakhoizbg.cc##.footer-banner
-rakhoizbg.cc##.sk_balloon
+quatvn.stream###popupBanner
+quatvn.stream###popupOverlay
+quatvn.stream###stickyFooterAds
+quatvn.stream###topBannerAds
+rakhoizah.cc###wap_bottombanner
+rakhoizah.cc##.bookmaker-selector-container
+rakhoizah.cc##.btn-8xbet
+rakhoizah.cc##.btn-odds
+rakhoizah.cc##.footer-banner
+rakhoizah.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim1.co##.sspp-area
 rophim10.ink##.adserver
@@ -593,8 +595,6 @@ st.90phut27.com###m-bet
 st.90phut27.com##.modal-backdropz
 st.90phut27.com##div[class*="size-"]
 streamobs.net###AgeModal
-streetboxphl.com###popup-ad-box
-streetboxphl.com##.banner-ad
 subnhanh.plus###footer_fixed_ads
 subnhanh.plus###popup_banner_beta
 subnhanh.plus##.sda-catfish
