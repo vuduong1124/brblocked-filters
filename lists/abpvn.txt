@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-17 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-18 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 71
 ! Cosmetic: 812
 ||ad.vidverto.io^
@@ -122,9 +122,6 @@ animevietsub.bid##.mobile-catfixx
 animevietsub.bid##.pc-catfixx
 antt.vn##.ads
 api.anime3s.com##.t_logo
-asexhihi.net##.catfish-bottom
-asexhihi.net##.catfish-top
-asexhihi.net##.xx-ads
 audiotruyenfull.com##.code-block-24.code-block
 autodaily.vn###banner3double
 autopro.com.vn##.admicro
@@ -160,7 +157,6 @@ bongdanet.online##div[id^="ads_banner_bdn"]
 bongdaso66.net###right_float
 bongdaso66.net##[class*="_banner"]
 bongdaso66.net##[id$="float_banner"]
-bongngo.net##.xx-ads
 buomtv.biz##._1vguhxv.cosll6e._3yp41v.row-3.lgy>._1lbf8q9
 buomtv.biz##._1vguhxv.cwzsl22.czdj0j5.c1skg1w3.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cjq7bud.c10dklm2.c1xtmnwt.dlnefd1
 buomtv.biz##._9xtpcl.c1mnguco.c9pdtme.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cxngf0m.c199xq07.c1xtmnwt
@@ -286,6 +282,9 @@ fullcliphot.org##div#recent-content:nth-of-type(1)
 fulllivehot.us##.cashfish
 fulllivehot.us##.mini-player
 gaingon3d.com###iklan-atas-wrapper
+gaisexhihi.com##.catfish-bottom
+gaisexhihi.com##.catfish-top
+gaisexhihi.com##.xx-ads
 game24h.vn###vi-smartbanner
 game24h.vn##.LRBanner
 gamek.vn##[id^="admzone"]
@@ -460,8 +459,8 @@ motchillw.ac##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.
 motchillxe.cc##.overlay-1
 motphimchilll.ink###catfish_ad_top
 motphimz.to##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
-nettruyen15s.com##.ad_info
-nettruyen15s.com##.ads_insert_shop
+nettruyen16s.com##.ad_info
+nettruyen16s.com##.ads_insert_shop
 nettruyenar.com##.banner
 new.tructiepnba.me##.truct-catfish
 new.tructiepnba.me##.truct-widget
@@ -600,6 +599,8 @@ subnhanh.plus##.sda-catfish
 subnhanh.plus##.video-ad-layer
 taichinhdoanhnghiep.net.vn##.adv
 taichinhdoanhnghiep.net.vn##.banner
+takitomoharu.com###popup-ad-box
+takitomoharu.com##.banner-ad
 tapchikientruc.com.vn###topbn
 tctruyen.org##.adpia_banner
 tctruyen.org##.img-banner-poster.main
@@ -608,8 +609,6 @@ techrum.vn##.block:has(.block-container>.block-body>a[href])
 techrum.vn##.block:has(.block-container>.block-body>ins)
 tenovi.net###ad_balloon
 tenovi.net##.adpia_banner
-termebilgigazetesi.com###popup-ad-box
-termebilgigazetesi.com##.banner-ad
 thanhnien.vn##.asd-headt
 thanhnien.vn##.detail__foru
 thanhnien.vn##.mb-40.section__qadd
@@ -758,8 +757,8 @@ videophapluat.baophapluat.vn##[href*="vietcombank.com.vn"]
 vieclam.tv###bnc0
 vieclam.tv###bnc1
 viet69.be##.footer-fixed-br-container
-viet69hayz.quest###castfish
-viet69hayz.quest##.popup
+viet69hayz.blog###castfish
+viet69hayz.blog##.popup
 viet69vn.at##.footer-fixed-br-container
 vietcetera.com##.styles_topBanner__NL_gW
 vietfones.vn##.vfs_banner
@@ -816,15 +815,15 @@ vtcnews.vn##.sys-ads
 vuonhoalan.net##.content_middle_rightbar
 webhoctienganh.com##.button-action-float-banner
 wikidichvn.com###flyer
-ww4.8phimx.com##.BanerTop100
-ww4.8phimx.com##.adv-300-right
-ww4.8phimx.com##.banner-container
-ww4.8phimx.com##.banner-preload
-ww4.8phimx.com##.banner-preload-container
-ww4.8phimx.com##.catfish-bottom
-ww4.8phimx.com##.catfish-top
-ww4.8phimx.com##a[rel="nofollow"]
-ww4.8phimx.com##div[class^="catfish-"]
+ww2.motphimy.com##.BanerTop100
+ww2.motphimy.com##.adv-300-right
+ww2.motphimy.com##.banner-container
+ww2.motphimy.com##.banner-preload
+ww2.motphimy.com##.banner-preload-container
+ww2.motphimy.com##.catfish-bottom
+ww2.motphimy.com##.catfish-top
+ww2.motphimy.com##a[rel="nofollow"]
+ww2.motphimy.com##div[class^="catfish-"]
 www.2banh.vn##.grp-grp.header_wp
 www.2banh.vn##.lb_overlay
 www.7mvn9.com###bottomFixedDiv
@@ -850,7 +849,7 @@ www.saostar.vn###page-skin-top-holder
 www.saostar.vn###pc-bill-top
 www.saostar.vn###pc-bill-top-1
 www.sieutamphim.art###scriptDiv
-www.toptruyenzone14.com##.advertisement
+www.toptruyenzone15.com##.advertisement
 www.vnjpclub.com##.vnjp-ad-slot
 x.chinav.sex###cashfit-banner-host
 x.chinav.sex##.adbox
@@ -867,6 +866,7 @@ xehay.vn###banner3double
 xem1080.com##.banner-masthead
 xem20.net##.fixed
 xem20.net##.float-ck-center-lt
+xemphimjav.net##.xx-ads
 xfast.sbs###overlay
 xiuren.org###bannerIn
 xiuren.org###exoIMFrame
