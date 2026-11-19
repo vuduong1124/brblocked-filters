@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-18 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-19 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 71
 ! Cosmetic: 812
 ||ad.vidverto.io^
@@ -97,14 +97,14 @@ afamily.vn##.afw-topbanner
 amlich.org##.banner-container
 anime47.best###qc_clgt
 anime47.best###swiper-wrapper
-animehay16.site###catfish
-animehay16.site###header-ads + center
-animehay16.site###sponsor-balloon
-animehay16.site###top-banner
-animehay16.site##.under_player.flex-hozi-center.flex-column.flex
-animehay16.site##[src*=".gif"]
-animehay16.site##body>div[style^="position: fixed"]
-animehay16.site##div[style="position: fixed; bottom: 0px; z-index: 98; width: 100%; text-align: center; box-sizing: border-box;"]
+animehay17.site###catfish
+animehay17.site###header-ads + center
+animehay17.site###sponsor-balloon
+animehay17.site###top-banner
+animehay17.site##.under_player.flex-hozi-center.flex-column.flex
+animehay17.site##[src*=".gif"]
+animehay17.site##body>div[style^="position: fixed"]
+animehay17.site##div[style="position: fixed; bottom: 0px; z-index: 98; width: 100%; text-align: center; box-sizing: border-box;"]
 animesub.site###fbox-background
 animesub.site###menubentrai
 animesub.site##.gnartyx-offads
@@ -183,8 +183,8 @@ chatboxn.com##a[target="_blank"][rel="nofollow"]
 checkscam.vn##.qh_qcbp
 chodansinh.net##.link-gold
 chodansinh.net##[id^="banner"]
-chophim.xyz##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0.fixed
-chophim.xyz##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-0.fixed
+chophim.ink##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0.fixed
+chophim.ink##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-0.fixed
 chophimviet.top###scriptDiv:has(.adsbygoogle)
 chotlo3s.com##div[id^="float"]
 chotlo3s.com##div[id^="hide_float"]
@@ -197,6 +197,7 @@ cliphot69.golf##.float-ck-center-lt
 cliphotvn69.com##.float-ck-center-lt
 clipphot.co##.cashfish
 clipphot.co##.mini-player
+clipsex.tube##.xx-ads
 coinphoton.com##.header-fix-ads
 coinphoton.com##.lepopup-popup-container
 coinphoton.com##.lepopup-popup-overlay
@@ -599,8 +600,6 @@ subnhanh.plus##.sda-catfish
 subnhanh.plus##.video-ad-layer
 taichinhdoanhnghiep.net.vn##.adv
 taichinhdoanhnghiep.net.vn##.banner
-takitomoharu.com###popup-ad-box
-takitomoharu.com##.banner-ad
 tapchikientruc.com.vn###topbn
 tctruyen.org##.adpia_banner
 tctruyen.org##.img-banner-poster.main
@@ -609,6 +608,8 @@ techrum.vn##.block:has(.block-container>.block-body>a[href])
 techrum.vn##.block:has(.block-container>.block-body>ins)
 tenovi.net###ad_balloon
 tenovi.net##.adpia_banner
+teuchisoba-naoto.com###popup-ad-box
+teuchisoba-naoto.com##.banner-ad
 thanhnien.vn##.asd-headt
 thanhnien.vn##.detail__foru
 thanhnien.vn##.mb-40.section__qadd
@@ -866,7 +867,6 @@ xehay.vn###banner3double
 xem1080.com##.banner-masthead
 xem20.net##.fixed
 xem20.net##.float-ck-center-lt
-xemphimjav.net##.xx-ads
 xfast.sbs###overlay
 xiuren.org###bannerIn
 xiuren.org###exoIMFrame
