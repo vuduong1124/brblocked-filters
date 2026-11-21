@@ -1,9 +1,9 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-20 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 71
-! Cosmetic: 812
+! Converted: 2026-11-21 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 70
+! Cosmetic: 809
 ||ad.vidverto.io^
 ||adcenter.cx^
 ||adflex.vn^
@@ -22,7 +22,6 @@
 ||ants.vn^
 ||api.adfly.vn^
 ||apinas.nct.vn^
-||atgpwurifh.in^
 ||bidgear-syndication.com^
 ||blueseeddigital.com^
 ||bs.maltedsanxious.com^
@@ -553,7 +552,7 @@ rakhoizai.cc##.btn-odds
 rakhoizai.cc##.footer-banner
 rakhoizai.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
-rophim1.co##.sspp-area
+rophim1.space##.sspp-area
 rophim10.ink##.adserver
 rophim10.ink##.mt-3.topics-line.topics-grid.topics-list
 rophimz.top##.float-ck-center-lt
@@ -780,9 +779,6 @@ vietnammedia.vnanet.vn##[href*="bit.ly"]
 vietnamnet.vn##.vmcadszone
 vietq.vn##section.mar20:nth-of-type(2)
 vietq.vn##section.mar20:nth-of-type(4)
-vlxx.rip###f186fb23a33995d91ce3c2212189178c8
-vlxx.rip##.hd-tube-desktop
-vlxx.rip##.hd-tube-mobile
 vlxxhot.net###ab_ctl
 vlxxhot.net##.adx1
 vn-motchill.com###vl-header-adx
