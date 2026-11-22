@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-21 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-22 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 70
 ! Cosmetic: 809
 ||ad.vidverto.io^
@@ -156,7 +156,6 @@ bongdanet.online##div[id^="ads_banner_bdn"]
 bongdaso66.net###right_float
 bongdaso66.net##[class*="_banner"]
 bongdaso66.net##[id$="float_banner"]
-bulon.biz##.xx-ads
 buomtv.biz##._1vguhxv.cosll6e._3yp41v.row-3.lgy>._1lbf8q9
 buomtv.biz##._1vguhxv.cwzsl22.czdj0j5.c1skg1w3.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cjq7bud.c10dklm2.c1xtmnwt.dlnefd1
 buomtv.biz##._9xtpcl.c1mnguco.c9pdtme.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cxngf0m.c199xq07.c1xtmnwt
@@ -183,8 +182,8 @@ chatboxn.com##a[target="_blank"][rel="nofollow"]
 checkscam.vn##.qh_qcbp
 chodansinh.net##.link-gold
 chodansinh.net##[id^="banner"]
-chophim.ink##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0.fixed
-chophim.ink##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-0.fixed
+chophim.wtf##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0.fixed
+chophim.wtf##.pointer-events-none.justify-center.flex.z-\[80\].bottom-0.inset-x-0.fixed
 chophimviet.top###scriptDiv:has(.adsbygoogle)
 chotlo3s.com##div[id^="float"]
 chotlo3s.com##div[id^="hide_float"]
@@ -282,9 +281,6 @@ fullcliphot.org##div#recent-content:nth-of-type(1)
 fulllivehot.us##.cashfish
 fulllivehot.us##.mini-player
 gaingon3d.com###iklan-atas-wrapper
-gaisexhihi.com##.catfish-bottom
-gaisexhihi.com##.catfish-top
-gaisexhihi.com##.xx-ads
 game24h.vn###vi-smartbanner
 game24h.vn##.LRBanner
 gamek.vn##[id^="admzone"]
@@ -292,6 +288,8 @@ gamer18.net##.fixed-banner-bottom
 gamer18.net##div[id^="divFLR"]
 gamevui.vn##.adbox
 genk.vn##.khw-ads-wrapper.clearfix
+geziotobusunigde.com###popup-ad-box
+geziotobusunigde.com##.banner-ad
 ghienphimz.fun##.ad-floater
 ghienphimz.fun##.ads
 ghienphimz.fun##.banner
@@ -474,8 +472,6 @@ nhaccuatui.com##.adv_home_300_250
 nhaccuatui.com##.nqc-zone
 nhacdj.vn###top-adv
 nhipcaudautu.vn##div[id^="ads_"]
-observatoiresedentarite.com###popup-ad-box
-observatoiresedentarite.com##.banner-ad
 olm.vn##.olm-ads
 onflix.lat##.fixed.inset-0.z-\[100\].flex.items-center.justify-center.bg-black\/60.p-4.animate-in.fade-in.duration-300
 onflix.lat##.lg\:bottom-0.bottom-\[94px\].duration-300.transition-all.pointer-events-none.justify-center.flex.z-40.inset-x-0.fixed
@@ -511,6 +507,7 @@ phimdacap.tv###ads-popup
 phimdacap.tv###catfish
 phimhdc.com##.mp-adz
 phimhdcss.com##.mp-adz
+phimjav.org##.xx-ads
 phimmoic.vc##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 phimmoichillz.top###pm_quangcao
 phimmoichillz.top###preload
@@ -555,8 +552,8 @@ reatimes.vn##div[class^="adv-"]
 rophim1.space##.sspp-area
 rophim10.ink##.adserver
 rophim10.ink##.mt-3.topics-line.topics-grid.topics-list
+rophimz.cv##.sspp-area
 rophimz.top##.float-ck-center-lt
-rophimz.ws##.sspp-area
 rphang.bike###aboveFirstPost
 rphang.bike##.bbMediaWrapper-inner>.samCodeUnit
 rphang.bike##.js-replyNewMessageContainer.block-body>div.samCodeUnit>.samItem
@@ -573,7 +570,6 @@ saostar.vn###mobi-top
 saostar.vn##.ads
 saostar.vn##.pc-bill
 sayhentai.cx##.float-ck-center-lt
-sexgaivl.net##.quangcaomobile
 sexmupxinh.net##.catfish-top
 sexmupxinh.net##.catfix
 sexmupxinh.net##.xx-ads
@@ -868,12 +864,16 @@ xiuren.org###bannerIn
 xiuren.org###exoIMFrame
 xiuren.org###nativeAds_1505931906161
 xiuren.org##div[id^="exo_slider_"]
-xnhau.meme##.fp-ui>div[style]
-xnhau.meme##.sponsor
-xnhau.meme##.spot
+xnhau.moda##.fp-ui>div[style]
+xnhau.moda##.sponsor
+xnhau.moda##.spot
 xnxx.com###content-ad-top-zone
 xoilac.livecdnem.com##.odds-button
 xoilac.livecdnem.com##.odds-button2
+xphimsexvl.com##.quangcaomobile
+xxsexhihi.com##.catfish-bottom
+xxsexhihi.com##.catfish-top
+xxsexhihi.com##.xx-ads
 yanhh3d.baby###catfish-ads
 ybox.vn###ybox-H1>div[style]
 ycongnghe.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
