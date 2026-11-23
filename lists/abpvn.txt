@@ -1,7 +1,7 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-22 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Converted: 2026-11-23 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
 ! Domains: 70
 ! Cosmetic: 809
 ||ad.vidverto.io^
@@ -199,13 +199,13 @@ clipphot.co##.mini-player
 coinphoton.com##.header-fix-ads
 coinphoton.com##.lepopup-popup-container
 coinphoton.com##.lepopup-popup-overlay
-coiphim.cfd##.ad-floater
-coiphim.cfd##.ads
-coiphim.cfd##.banner
-coiphim.cfd##.popunder-link
-coiphim.cfd##.promotion-popup
-coiphim.cfd##.video-ad-layer
-coiphim.cfd##li.special.parent
+coiphim.lifestyle##.ad-floater
+coiphim.lifestyle##.ads
+coiphim.lifestyle##.banner
+coiphim.lifestyle##.popunder-link
+coiphim.lifestyle##.promotion-popup
+coiphim.lifestyle##.video-ad-layer
+coiphim.lifestyle##li.special.parent
 colatv45.live###catfish-ad
 colatv45.live##.blv-follow-btn
 colatv45.live##.btn-primary.btn
@@ -288,8 +288,6 @@ gamer18.net##.fixed-banner-bottom
 gamer18.net##div[id^="divFLR"]
 gamevui.vn##.adbox
 genk.vn##.khw-ads-wrapper.clearfix
-geziotobusunigde.com###popup-ad-box
-geziotobusunigde.com##.banner-ad
 ghienphimz.fun##.ad-floater
 ghienphimz.fun##.ads
 ghienphimz.fun##.banner
@@ -354,6 +352,7 @@ hoatieu.vn###adsuggestion
 hoatieu.vn##div[class^="adbox"]
 hocaz.vn##.banner-estudyme-container
 hoidap247.com##.ads-home-feed
+hopdem.net##.xx-ads
 hopphim.online##.items-end.flex-col.flex.z-\[9998\].right-4.fixed
 hopphim.online##.max-\[1023px\]\:pb-\[5rem\].gap-2.flex-col.flex.z-50.right-4.left-4.bottom-4.fixed
 i2pd.website###m-bet
@@ -421,6 +420,8 @@ luatduonggia.vn##.ads-tags
 luatduonggia.vn##.img_side_bar
 luatduonggia.vn##.poka-image
 lxmanga.top##.sticky-footer
+magnets-n.com###popup-ad-box
+magnets-n.com##.banner-ad
 mamphim.space##.modal-backdrop
 mamphim.space##.sspp-area
 mamphim.space##.sspp-modal
@@ -507,7 +508,6 @@ phimdacap.tv###ads-popup
 phimdacap.tv###catfish
 phimhdc.com##.mp-adz
 phimhdcss.com##.mp-adz
-phimjav.org##.xx-ads
 phimmoic.vc##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 phimmoichillz.top###pm_quangcao
 phimmoichillz.top###preload
@@ -542,12 +542,12 @@ quatvn.stream###popupBanner
 quatvn.stream###popupOverlay
 quatvn.stream###stickyFooterAds
 quatvn.stream###topBannerAds
-rakhoizai.cc###wap_bottombanner
-rakhoizai.cc##.bookmaker-selector-container
-rakhoizai.cc##.btn-8xbet
-rakhoizai.cc##.btn-odds
-rakhoizai.cc##.footer-banner
-rakhoizai.cc##.sk_balloon
+rakhoizbh.cc###wap_bottombanner
+rakhoizbh.cc##.bookmaker-selector-container
+rakhoizbh.cc##.btn-8xbet
+rakhoizbh.cc##.btn-odds
+rakhoizbh.cc##.footer-banner
+rakhoizbh.cc##.sk_balloon
 reatimes.vn##div[class^="adv-"]
 rophim1.space##.sspp-area
 rophim10.ink##.adserver

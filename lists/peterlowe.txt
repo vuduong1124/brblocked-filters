@@ -1,8 +1,8 @@
 ! Title: Peter Lowe
 ! Source: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 ! License: https://pgl.yoyo.org/adservers/policy.php
-! Converted: 2026-11-21 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 3540
+! Converted: 2026-11-23 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 3542
 ! Cosmetic: 0
 ||101com.com^
 ||180hits.de^
@@ -1648,6 +1648,7 @@
 ||feelwarmth.com^
 ||femalecook.com^
 ||fenxi.com^
+||fhvfd.com^
 ||figsprotein.com^
 ||figurehunter.net^
 ||fillthemap.com^
@@ -2308,6 +2309,7 @@
 ||nappyattack.com^
 ||nappyneck.com^
 ||nastydollars.com^
+||native123.com^
 ||nativeroll.tv^
 ||navegg.com^
 ||navigator.io^
