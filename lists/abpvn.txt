@@ -1,8 +1,8 @@
 ! Title: ABPVN
 ! Source: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! License: GPLv3, https://github.com/abpvn/abpvn
-! Converted: 2026-11-26 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
-! Domains: 70
+! Converted: 2026-11-27 by https://github.com/vuduong1124/brblocked-filters/blob/main/tools/convert.py
+! Domains: 69
 ! Cosmetic: 809
 ||ad.vidverto.io^
 ||adcenter.cx^
@@ -54,7 +54,6 @@
 ||media.yomedia.vn^
 ||meta.vn^
 ||ob.joyrodetoment.com^
-||onnetwork.tv^
 ||oursty.com^
 ||player.gliacloud.com^
 ||pub.akadigital.vn^
@@ -156,18 +155,18 @@ bongdanet.online##div[id^="ads_banner_bdn"]
 bongdaso66.net###right_float
 bongdaso66.net##[class*="_banner"]
 bongdaso66.net##[id$="float_banner"]
-buomtv.biz##._1vguhxv.cosll6e._3yp41v.row-3.lgy>._1lbf8q9
-buomtv.biz##._1vguhxv.cwzsl22.czdj0j5.c1skg1w3.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cjq7bud.c10dklm2.c1xtmnwt.dlnefd1
-buomtv.biz##._9xtpcl.c1mnguco.c9pdtme.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cxngf0m.c199xq07.c1xtmnwt
-buomtv.biz##._9xtpcl.c4je67d.c1qs0lzc.c1hrlkpu.cc2icwl.c1i0iccj.cfd18df
-buomtv.biz##._9xtpcl.cxwrp3i.c1skg1w3.cxngf0m.c199xq07.c10dklm2.c1xtmnwt.cvk29a4.w-\[300px\]
-buomtv.biz##._9xtpcl.e1e6v8dt
-buomtv.biz##.blbew80
-buomtv.biz##.llnefd1
-buomtv.biz##.lpp0nsn
-buomtv.biz##.luq51lg.a13wihj
-buomtv.biz##.pointer-events-auto.block
-buomtv.biz##.zbgpvb19.zbgpvb16.zbgpvbj.zbgpvbh.zbgpvbg.zbgpvbf.zbgpvbe.zbgpvb1
+buomtv.guru##._1vguhxv.cosll6e._3yp41v.row-3.lgy>._1lbf8q9
+buomtv.guru##._1vguhxv.cwzsl22.czdj0j5.c1skg1w3.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cjq7bud.c10dklm2.c1xtmnwt.dlnefd1
+buomtv.guru##._9xtpcl.c1mnguco.c9pdtme.c1q1n9rc.c1f8a55r.c2wbcgy.c1qs0lzc.cq980mc.cosll6e.cxngf0m.c199xq07.c1xtmnwt
+buomtv.guru##._9xtpcl.c4je67d.c1qs0lzc.c1hrlkpu.cc2icwl.c1i0iccj.cfd18df
+buomtv.guru##._9xtpcl.cxwrp3i.c1skg1w3.cxngf0m.c199xq07.c10dklm2.c1xtmnwt.cvk29a4.w-\[300px\]
+buomtv.guru##._9xtpcl.e1e6v8dt
+buomtv.guru##.blbew80
+buomtv.guru##.llnefd1
+buomtv.guru##.lpp0nsn
+buomtv.guru##.luq51lg.a13wihj
+buomtv.guru##.pointer-events-auto.block
+buomtv.guru##.zbgpvb19.zbgpvb16.zbgpvbj.zbgpvbh.zbgpvbg.zbgpvbf.zbgpvbe.zbgpvb1
 cafebiz.vn##.bgadmtoptotal
 cafef.vn###lstblock1>.pushed
 cafef.vn###wrapper>[id^="adm-slot"]
@@ -199,13 +198,13 @@ clipphot.co##.mini-player
 coinphoton.com##.header-fix-ads
 coinphoton.com##.lepopup-popup-container
 coinphoton.com##.lepopup-popup-overlay
-coiphim.asia##.ad-floater
-coiphim.asia##.ads
-coiphim.asia##.banner
-coiphim.asia##.popunder-link
-coiphim.asia##.promotion-popup
-coiphim.asia##.video-ad-layer
-coiphim.asia##li.special.parent
+coiphim.art##.ad-floater
+coiphim.art##.ads
+coiphim.art##.banner
+coiphim.art##.popunder-link
+coiphim.art##.promotion-popup
+coiphim.art##.video-ad-layer
+coiphim.art##li.special.parent
 colatv45.live###catfish-ad
 colatv45.live##.blv-follow-btn
 colatv45.live##.btn-primary.btn
@@ -280,8 +279,6 @@ fullcliphot.org##.mini-player
 fullcliphot.org##div#recent-content:nth-of-type(1)
 fulllivehot.us##.cashfish
 fulllivehot.us##.mini-player
-funkolandia.com###popup-ad-box
-funkolandia.com##.banner-ad
 gaingon3d.com###iklan-atas-wrapper
 game24h.vn###vi-smartbanner
 game24h.vn##.LRBanner
@@ -303,13 +300,13 @@ giadinhonline.vn##.adv
 giadinhonline.vn##.exp_qc_share
 giavang.org##.sponsor-img
 giavang.org##.tradingview-widget-copyright
-giovang.guru##.balloon-wrapper
-giovang.guru##.banner_popup
-giovang.guru##.banners-bottom
-giovang.guru##.bc-hidden-link.seo4s-resolve-link
-giovang.guru##.box-odds-match
-giovang.guru##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
-giovang.guru##.nav-top-nha-cai
+giovang.baby##.balloon-wrapper
+giovang.baby##.banner_popup
+giovang.baby##.banners-bottom
+giovang.baby##.bc-hidden-link.seo4s-resolve-link
+giovang.baby##.box-odds-match
+giovang.baby##.is-active.football.preview-detail-item>.col-info>.tiny-info>.cta>.btn-2.btn
+giovang.baby##.nav-top-nha-cai
 gockhuat.net###ad_global_below_navbar
 gocmod.com###bannerContainer1
 gocmod.com###bannerContainer2
@@ -321,9 +318,6 @@ gocmod.com##center:has(.adsbygoogle)
 gocmod.com##div[style^="position: fixed"]
 googleapiscdn.com###avs-banner-overlay
 googleapiscdn.com###avs-pause-ad
-haysexhihi.me##.catfish-bottom
-haysexhihi.me##.catfish-top
-haysexhihi.me##.xx-ads
 haysexvn.shop###vl-header-adx
 haysexvn.shop##.castfish-wrappe
 haysexvn.shop##.popup
@@ -534,9 +528,9 @@ plcdn.xyz##.odds-button2
 qdnd.vn##.box-banner
 qmanga.art##.gwd-banner-image
 qmh.garden###catfish-ad-banner
-qmhv3.one##.global-sticky-ads
-qmhv3.one##.header>app-banner
-qmhv3.one##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+qmhv3.shop##.global-sticky-ads
+qmhv3.shop##.header>app-banner
+qmhv3.shop##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
 quantrimang.com###adrighttop
 quantrimang.com###adsposttop
 quantrimang.com##.adbox
@@ -555,7 +549,7 @@ reatimes.vn##div[class^="adv-"]
 rophim1.space##.sspp-area
 rophim10.fit##.adserver
 rophim10.fit##.mt-3.topics-line.topics-grid.topics-list
-rophimz.cv##.sspp-area
+rophimz.ad##.sspp-area
 rophimz.top##.float-ck-center-lt
 rphang.fund###aboveFirstPost
 rphang.fund##.bbMediaWrapper-inner>.samCodeUnit
@@ -573,6 +567,9 @@ saostar.vn###mobi-top
 saostar.vn##.ads
 saostar.vn##.pc-bill
 sayhentai.cx##.float-ck-center-lt
+sexhihi18.me##.catfish-bottom
+sexhihi18.me##.catfish-top
+sexhihi18.me##.xx-ads
 sexmupxinh.net##.catfish-top
 sexmupxinh.net##.catfix
 sexmupxinh.net##.xx-ads
@@ -641,6 +638,8 @@ thefaplive.com###popup_fi
 thefaplive.com###wap_bottombanner
 thefaplive.com##.hidden-md.right.col-3
 thefaplive.com##body>.container>div
+theperfecttooltribute.com###popup-ad-box
+theperfecttooltribute.com##.banner-ad
 thethao1.mannhan24.pro###hots-btn
 thethao1.mannhan24.pro##.bn-popup-bottom-sdwdwxw
 thethao1.mannhan24.pro##[href="/top-nha-cai.html"]
@@ -822,9 +821,9 @@ ww6.motphimy.com##a[rel="nofollow"]
 ww6.motphimy.com##div[class^="catfish-"]
 www.2banh.vn##.grp-grp.header_wp
 www.2banh.vn##.lb_overlay
-www.7mvn9.com###bottomFixedDiv
-www.7mvn9.com###js_pup_navigation
-www.7mvn9.com##tr[id^="word_"]
+www.7mvn666.com###bottomFixedDiv
+www.7mvn666.com###js_pup_navigation
+www.7mvn666.com##tr[id^="word_"]
 www.asianbookie.org##a[href^="/cgi-bin/to.cgi"]
 www.asu.baby##.nhacai
 www.asu.baby##.nhacai2
